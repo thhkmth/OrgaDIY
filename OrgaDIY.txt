@@ -288,19 +288,24 @@ Get-in : Heure d'arrivée du groupe à la salle. (Les groupes sont quasi systém
 Soundcheck : Installation du matos, réglages du son, cela peut-être assez long suivant les groupes, c'est un élément à prendre en compte dans le planning. Le groupe qui joue en dernier s'installe en premier et fait son sound check, et le groupe qui joue en premier soundchecke à la fin.
 Line check : Le soundcheck des flemmards ou des retardataires. On vérifie juste que tout est branché à peu près correctement et vogue la galère.
 
-Sondier·e :
+Sondier·e : Personne qui s'occupe des balances/du mixage avant et/ou pendant le concert.
+
+Balances/Mixage : Réglages des volumes pour qu'on puisse entendre chaque pistes, qu'aucune piste n'écrase les autres ou soit au contraire inaudible.
+
+Pistes : Une "tranche" de mixer qui recoit du son venant d'un synthé, d'un micro (de voix, d'amplis,...).
 
 Nocturne :
 
-Backline :
+Backline : Les instruments, amplis, pédales, micros, ... tout le materiel utilisé directement par les artistes.
 
-SMACs:
+SMACs: Scènes de musiques actuelles. C'est un label attribué par le ministère de la culture à des institutions en faisant la demande.
+https://mesdemarches.culture.gouv.fr/loc_fr/mcc/requests/LIEUX_SOUTI_labellises_10/
 
 Prix libre :
 
 Door deal :
 
-DIY :
+DIY : Do-It-Yourself. 
 
 Cachet :
 
