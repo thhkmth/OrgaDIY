@@ -145,6 +145,7 @@ On est pas là pour vous apprendre à vous servir de facebook event, instagram e
 - envoyer sa date à Ville Morte (dès que possible ou avant le 20 du mois qui précède), poster sur awesomeboard et autres forums spécialisés.
 - envoyer une newsletter et/ou des sms à ses potes
 - poster sa date sur Mobilizon (alternative aux événements facebook)
+
 |Point légal de Maitre Aquabe - pages couleur ?
 
 Ce guide décrit des pratiques qui vont de l'infralégal toléré au carrément illégal, il est important de connaître la loi et les risques pour faire ses choix de façon éclairée. Si une orga DIY est, en terme administratif,_ beaucoup plus libre et légère qu'une orga légale ou institutionnelle, il peut y avoir des inconvénients, principalement pour les groupes non déclarés s'ils sont intermittents par ailleurs.
@@ -158,6 +159,7 @@ ___ * licence de spectacles : https://www.service-public.fr/associations/vosdroi
 ___ attention à la vente d'alcool : https://www.service-public.fr/associations/vosdroits/F24345
 
 Explication du cadre légal : demander à une SMAC (La Tannerie ? Périscope ?)
+
 ____|L'orga de l'orga: > Rétroplanning [fusionner]
 _
 - contact avec le groupe entre 6 et 2 mois avant la tournée : avoir une idée des besoins techniques et financiers
@@ -198,7 +200,7 @@ En préambule on va particulièrement prêter attention au rider ou poser la que
 - BONS PLANS RECUPS ?
 - ASTUCES ? (si je savais faire un catering ça se saurait je vous laisse gérer ça les loulous)
 ___ * astuces (matériel, organisation, petits budgets)
-___ 4 FICHES recettes (Sarah - Hisa - Gaelle - Valeriane)
+___ 4 FICHES recettes (Sarah - Hisa - Gaelle - Valeriane - Jade)
 ____
 ___ Recette de chili sin carne de Gaëlle pour les concerts de Deafheaven et Touché Armoré :
 ___ Ingrédients : (pour 4 personnes)_ 2 cuillères à soupe d'huile d'olive 2 petites gousses d'ail, émincées 1 oignon_ jaune émincé (environ 100 gr) 1 carottes râpée (env. 70 gr), facultatif 1 poivron rouge, coupé en petits dés (env. 70 gr) 1 boîte de 400 gr de tomates concassées 600 ml de bouillon de légumes 125 gr_ de lentilles vertes du Puy sèches, rincées 125 gr de quinoa non cuit, rincé 1 cuillère à soupe bombée de concentré de tomates 1 cuillère à café de cumin 1 cuillère à café d'origan 1 à 2 cuillères à café rase de poudre de chili, selon la façon dont vous l'aimez épicé sel, poivre 200-250 gr de haricots rouges en conserve, rincés et égouttés 1 lime (citron vert) 1 à 2 cuillères à soupe (selon votre goût) de coriandre fraîche hachée finement (ou herbe aromatique de votre choix, ciboulette, persil plat, feuilles de céleri etc...) Avocat pour la garniture
@@ -208,6 +210,10 @@ ___ (à re-rédiger un peu + multiplier les quantités ? + photo)
 ___ *boissons recette jus de gingembre ?
 ___ > Ressources / Biblio
 ____
+	Recette de muffin salé de Jade
+	
+	Recette de boisson au gingembre de Hisa
+
 _______ Facultative mais toujours appréciée, la vente de nourriture aux concerts se développe de plus en plus et pour diverses raisons : le lieu est perdu au milieu de nulle part, les organisateurs sont des passionnés de cuisine et/ou aiment trop leur public pour les laisser manger des kebabs à la viande de cheval, les concerts sont de plus en plus tôt pour ne pas froisser les voisins sus-nommés. Elle est souvent végétarienne et parfois issue de "récups" de fin de marché pour des raisons économiques et/ou politique
 ________
 _|Le jour-même, 
@@ -264,7 +270,23 @@ ___ Imaginer la fete autrement
 - organiser une projection (attention il y a des droits spécifiques c'est encore tout un binz)
 - organiser des concerts petit-déjeuners / brunchs les samedis ou dimanches
 
+____
+Au secours lae sondier.e n'est pas la : les bases du son et de la sonorisation
 
+Le rôle de sondier.e, ou sonorisateur, est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle.
+
+* schema installation (cf page34 https://assos.utc.fr/decibels/current/web/uploads/formation/b3196cb0b4dc7784e62ec82542856d347623c6ea.pdf )
+
+Captation sonores : les micros (voix, amplis, batterie, ...) et type d'entrées
+
+Mixage : la console de mixage, les volume, l'eq, 
+
+Diffusion : 
+
+Les larsens : Quand un micro est proche d'une enceinte et amplifie son propre signal. Le son produit est désagréable et peut atteindre des volume important.
+Ca fait partie de la musique de certains groupes mais est generalement à éviter.
+
+_______
 |LEXIQUE : comprendre le langage du BOOKING et des FICHES TECH', les rôles d'une tournée > pages couleurs ?
 
 Fiche technique / Rider Tech : Fiche qui récapitule la disposition scénique, le matériel (backline) et les besoins techniques du groupe. Elle indique le matériel amené par les musiciens et le matériel qui doit être fourni par la salle. Certains groupes n'en ont pas mais il faut quand même s'assurer en amont de leurs attentes en la matière. Les salles ont aussi souvent une fiche technique ou une liste du matériel dont elles disposent. Si vous n'y connaissez rien vous pouvez transmettre les indications techniques de la salle aux musiciens, et la fiche technique du groupe au responsable son de la salle, et n'hésitez pas à demander de l'aide à un·e ami·e musicien·ne !
@@ -294,22 +316,22 @@ Balances/Mixage : Réglages des volumes pour qu'on puisse entendre chaque pistes
 
 Pistes : Une "tranche" de mixer qui recoit du son venant d'un synthé, d'un micro (de voix, d'amplis,...).
 
-Nocturne :
+Nocturne : Evenement qui commence ou se passe au milieu de la nuit.
 
 Backline : Les instruments, amplis, pédales, micros, ... tout le materiel utilisé directement par les artistes.
 
 SMACs: Scènes de musiques actuelles. C'est un label attribué par le ministère de la culture à des institutions en faisant la demande.
 https://mesdemarches.culture.gouv.fr/loc_fr/mcc/requests/LIEUX_SOUTI_labellises_10/
 
-Prix libre :
+Prix libre : Les spectateurices paient ce qu'ielles veulent, ou peuvent. Parfois accompagné d'un prix conseillé.
 
-Door deal :
+Door deal : La repartition des gains de la vente des entrées entre, et convenue par, les groupes, le lieu et l'orga.
 
-DIY : Do-It-Yourself. 
+DIY : Do-It-Yourself. Manière de faire les choses avec les moyens disponibles, par soi même, par nous même. Do-It-Together.
 
-Cachet :
+Cachet : Rémunération garantie aux artistes.
 
-Prevente :
+Prevente : Vente d'entrées avant le jour du concert. En ligne, chez les disquaires, les copaines, ...
 
  |Ressources - sitographie - aller plus loin :
 https://weirdcanada.com/2014/02/how-to-put-on-a-show/
