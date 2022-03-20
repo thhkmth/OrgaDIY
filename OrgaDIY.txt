@@ -210,7 +210,7 @@ _*prévoir des affiches en rab à donner au groupe, au public
 
 |Catering
 
-En préambule on va particulièrement prêter attention au rider ou poser la questions aux participants, attention aux allergies et régimes particuliers. Nous donnerons ici plutôt des recettes vegan, moins chères, moins risquées quant à la conservation et plus écolo.
+En préambule on va particulièrement prêter attention au rider ou poser la questions aux participants, attention aux allergies et régimes particuliers. Nous donnerons ici plutôt des recettes vegan, moins chères, moins risquées quant à la conservation et plus écolo. On evitera aussi ce qui bourre cochon type salade de pâtes au riz.
 - BONS PLANS RECUPS : les fins de marché, les magasins bio...
 - ASTUCES ? 
 ___ * astuces (matériel, organisation, petits budgets)
@@ -222,11 +222,21 @@ ____
 ___ Dans une grande casserole, faites chauffer l'huile d'olive à feu moyen. Lorsqu’elle est chaude, rajoutez l'ail et l'oignon émincés et faites revenir en remuant de temps en temps à l'aide d'une spatule en bois jusqu'à ce que l'oignon devienne translucide. Rajoutez le poivron rouge et les carottes râpées et faites encore cuire quelques minutes._ Ajoutez les tomates concassées, le bouillon de légumes, le quinoa, les lentilles, le concentré de tomates, le cumin, la poudre de chili, l'origan, le sel et le poivre_ et ramenez à ébullition. Réduire le feu, couvrir, et laissez mijoter pendant environ 45 minutes_ ou jusqu'à ce que les lentilles soient tendres et le quinoa soit éclaté._ Incorporez les haricots rouges et la coriandre (ou autre, perso je fais partie des anti coriandre haha). Vous pouvez ajouter un peu de bouillon si vous voyez que vous n'avez pas assez, le chili va continuer à s'épaissir. Goûtez et rectifiez l'assaisonnement si nécessaire. Laisser mijoter environ 10 minutes de plus. Pressez la lime au dessus du chili et mélangez._ Servez le chili bien chaud dans des bols accompagné de dés d'avocat.
 ___ (à re-rédiger un peu + multiplier les quantités ? + photo)
 ___ *boissons recette jus de gingembre ?
-___ > Ressources / Biblio
 ____
-	Recette de muffin salé de Jade
+Recette de muffins salés aux tomates séchées (ou aux poivrons) de Jade pour Bank Myna
+
+Préparation : 30 - 35 minutes
+Pour 12 muffins
+
+Ingrédients : 250g de farine, 1 sachet de levure, 1.5 cuillère à café de sel, 300 ml d'eau, 1 cuillère à soupe de vinaigre de cidre ou de vinaigre blanc, 75 ml d'huile végétale, 1 oignon tranché finement, 1 cuillère à café d'origan, 1 cuillère à café de thym, 12 olives dénoyautées + 3 cuillères à soupe d'olives coupées en morceaux, 3 cuillères à soupe de tomates séchées (ou de poivrons grillés à l'huile) coupés en morceaux
+
+Préchauffer le four à 200°C. Faire chauffer un peu d'huile dans une poêle. Ajouter l'oignon et faire dorer une dizaine de minutes. Ajouter l'origan et le thym et faire revenir une minute de plus. Hors du feu, mélanger les oignons avec les olives en morceaux et les tomates séchées (ou poivrons). Pendant que les oignons dorent, mélanger la farine, la levure et le sel. Dans un autre récipient, mélanger l'eau avec le vinaigre et l'huile, puis incorporer dans le mélange de farine. Ajouter les oignons, olives et tomates séchées (ou poivrons) et bien mélanger. Répartir le mélange dans douze moules à muffins. Ajouter une olive dénoyautée sur chacun. Enfourner pour 20 à 25 minutes.
 	
-	Recette de boisson au gingembre de Hisa
+Recette de boisson au gingembre de Hisa
+Ingredients: pour 5 L, un tres tres gros morceau de gingembre rapé, du sucre roux dosé suivant si on aime le sucré ou non, des rondelles de citron et pour varier qques feuilles de menthe ou d'hibiscus. Preparer la veille pour la fermentation dans un recipient fermé. Mettre au frais le lendemain avant de servir.
+
+___ > Ressources / Biblio
+https://fabuleuxfrichti.bigcartel.com/
 
 _______ Facultative mais toujours appréciée, la vente de nourriture aux concerts se développe de plus en plus et pour diverses raisons : le lieu est perdu au milieu de nulle part, les organisateurs sont des passionnés de cuisine et/ou aiment trop leur public pour les laisser manger des kebabs à la viande de cheval, les concerts sont de plus en plus tôt pour ne pas froisser les voisins sus-nommés. Elle est souvent végétarienne et parfois issue de "récups" de fin de marché pour des raisons économiques et/ou politique
 ________
@@ -298,19 +308,46 @@ ___ Imaginer la fête autrement : quelques bonnes idées glanées de-ci de-là p
 ____
 NO HAY INGÉ SON : les bases du son et de la sonorisation
 
-Le rôle de sondier.e, ou sonorisateur, est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle.
+Le rôle de sondier.e est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle et dans les retours.
 
-* schema installation (cf page34 https://assos.utc.fr/decibels/current/web/uploads/formation/b3196cb0b4dc7784e62ec82542856d347623c6ea.pdf )
+Captation sonore : 
+Rassembler les sources de son, les entrées, et les connecter au mixer.
+La console de mixage, les types d'entrées, reglages et traitements sonores: 
 
-Captation sonores : les micros (voix, amplis, batterie, ...) et type d'entrées
+En entrée de la table de mixage on peut avoir 2 types de signaux : 
+	Les signaux line/lignes, qui viennent de claviers, synthés, lecteur mp3, et autres machines. Ils peuvent être mono ou stereo. 
+	Et les signaux micro qui viennent des micros (incroyable).
+	
+Les réglages d'une tranche/track de mixer:
+Gain: Les signaux micros ont des niveaux plus faibles que les signaux lignes, les pré-amplis présents sur les tranches/tracks du mixer permettent d'ajuster leurs niveaux à celui des entrées lignes. On règle le pré-ampli avec ce potentiomètre (bouton qui tourne, appellé aussi potar si on veut économiser des syllabes) qui est souvent à côté du branchement de l'entrée.
 
-Mixage : la console de mixage, les volume, l'eq, 
+Alimentation fantôme: Les microphones à condensateur ont besoin d'être alimentés pour fonctionner correctement.
+Comment différencier un micro à condensateur d'un micro dynamique ?
+
+Mute/M: rend la piste muette.
+Solo/S: rend toutes les autres pistes muettes.
+Equalization:
+Compression:
+Pan:
+
+Des exemples de types de signaux et de réglages associés:
+	la voix
+	la batterie
+	les guitares
+	les synthés et autres machines
 
 Diffusion : 
+Branchement des sorties: La sortie principale du mixer peut s'appeller Main, Mix, Output, ... , c'est cette ligne qui va fournir le signal aux enceintes diffusant pour le public. On branche les retours à une autre sortie: Aux.
+Placement des enceintes de chaque côté de la scène, si il y en a une, et orientées sur le centre de l'endroit où est le public. Pas besoin de sortir le compas ou la règle sauf si ca vous fait plaisir bien sur, on juge pas. 
+Enceintes fixées (?) sur des supports solides et stables: les haut parleurs vont vibrer, et faire vibrer leurs caissons. Les enceintes peuvent alors tenter de saboter votre super soirée en fuyant doucement leur suport jusqu'à tomber (pas doucement). Ce qui supporte les enceintes va aussi vibrer, il faut que ce soit assez lourd et solide (les tours en kapla c'est non) mais aussi stable pour éviter que l'ensemble oscille trop et finisse par faire un plat sur le public.
 
-Les larsens : Quand un micro est proche d'une enceinte et amplifie son propre signal. Le son produit est désagréable et peut atteindre un volume important.
-Ca fait partie de la musique de certains groupes mais c'est généralement à éviter.
+Sur le volume: légalement limité à une moyenne de 94dB pour un public enfant et 102db sinon (il y a des applications pour le mesurer). Le lieux de votre événement n'est pas forcément soumis à cette réglementation mais ça donne une idée des niveaux sonores ailleurs, dans des salles souvent plus grandes et à l'accoustique meilleure que nos salons, jardins et caves chéries. Bref ce ne sont pas des cibles à atteindre mais bien des limites au-delà desquelles des oreilles vont souffrir sur le moment, et souffler rageusement le lendemain. Un volume trop élevé va aussi faciliter l'apparition des redoutés larsens. 
+Quand un micro est trop proche d'une enceinte-public et/ou que le volume est trop élevé, il capte son propre signal amplifié qui sera amplifié à nouveau. Ca fait une boucle qui s'autoalimente jusqu'à produire un son très aigu et désagréable qui peut atteindre des volumes importants. Ca fait partie de la musique de certains groupes mais c'est un enfer pour lae sondier.e et le public.
 
+* schéma installation (cf. page 34 https://assos.utc.fr/decibels/current/web/uploads/formation/b3196cb0b4dc7784e62ec82542856d347623c6ea.pdf )
+
+https://agi-son.org/nl/parution-du-decret-niveaux-sonores-abaisses-17
+https://www.bax-shop.fr/blog/sono/table-de-mixage-les-fonctions-et-la-connectique-expliquees/
 _______
 |LEXIQUE : comprendre le langage du BOOKING et des FICHES TECH', les rôles d'une tournée > pages couleurs ?
 
