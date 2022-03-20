@@ -1,6 +1,5 @@
-COUV : ORGA DIY - Comment Organiser Un Concert [On cherche encore un titre]|0 COUV
-1 Crédits
-2- Intro
+1 COUV : Comment Organiser Un Concert ? Un guide pour dilettantes en contexte granlyonnais [LOGO VILLE MORTE] Prix Libre
+2 - Sommaire et Intro
 5 - contact
 8 - Dates, lieux
 11 - Budget
@@ -14,48 +13,54 @@ COUV : ORGA DIY - Comment Organiser Un Concert [On cherche encore un titre]|0 CO
 23 - la fête autrement
 6 - Lexique
 25 - Ressources
+?? - Crédit
+?? - 4e de couv [Photo Hazam ?] copyleft
 [brochure de 36 pages ??]
-Bonjour camarade, et bienvenue dans cette brochure collective sur l'organisation de concerts DIY en terres lyonnaises au XXIe siècle. Elle s'adresse à toutes et tous, plus particulièrement aux curieux·ses des coulisses des concerts indés et, nous l'espérons, aux futur·es organisateurs et organisatrices des prochains événements qui repeupleront nos soirées.
+
+Bonjour camarade, et bienvenue dans cette brochure collective sur l'organisation de concerts DIY* en terres (grand)lyonnaises au XXIe siècle. Elle s'adresse à toutes et tous, plus particulièrement aux curieux·ses des coulisses des concerts indés et, nous l'espérons, aux futur·es organisateurs et organisatrices des prochains événements qui repeupleront nos soirées.
 Elle a été pensée il y a des années au sein du collectif VILLE MORTE dans le but de rendre plus accessible l'organisation de concerts, afin de garder la mémoire de nos pratiques et en faciliter la transmission aux nouvelles générations. Il y a une multiplicité de façons de faire, et autant de points de vue sur la question que d'orgas, nous essaierons dans cette brochure de rendre visible cette variété mais nous ne serons bien sûr pas exhaustifs : nous invitons tou·tes ceux et celles qui le souhaiteraient à nous faire leurs retours via mail@villemorte.fr et/ou à publier leurs propres textes !
 
 Qui peut organiser un concert ?
-SI vous lisez ceci, c'est que vous vous intéressez déjà, d'une manière ou d'une autre, à la scène et aux pratiques DIY. Vous avez été attiré·es par les affiches, traîné·es par un·e pote à une soirée, et vous êtes tombé·es en amour de cette scène, ces lieux, ces ambiances. Vous êtes donc tout à fait qualifiéEs pour organiser des concerts, ce guide est là pour vous y aider. Idéalement on vous conseille de ne pas vous lancer tout·e seul·e : s'organiser en collectif ou avoir au moins quelques camarades prêt·es à filer la main facilite grandement l'existence. Avoir de quoi cuisiner, un grand salon pour héberger tout ce petit monde et quelques ronds pour avancer les frais, ça peut dépanner. Le mieux pour commencer c'est de proposer son aide aux salles ou aux orgas, pour faire les entrées, une quiche, servir au bar, faire un peu de ménage... ça vous permettra d'observer les pratiques, de démystifier le bordel et vous constituer un petit réseau, idéalement des gens qui aiment le même genre de groupes que vous ou qui ont une vision similaire de l'organisation.
+Si vous lisez ceci, c'est que vous vous intéressez déjà, d'une manière ou d'une autre, à la scène et aux pratiques DIY*. Vous avez été attiré·es par les affiches, traîné·es par un·e pote à une soirée, et vous êtes tombé·es en amour de cette scène, ces lieux, ces ambiances. Vous êtes donc tout à fait qualifié·es pour organiser des concerts, ce guide est là pour vous y aider. Idéalement on vous conseille de ne pas vous lancer tout·e seul·e : s'organiser en collectif ou avoir au moins quelques camarades prêt·es à filer la main facilite grandement l'existence. Avoir de quoi cuisiner, un grand salon pour héberger tout ce petit monde et quelques ronds pour avancer les frais, ça peut dépanner. Le mieux pour commencer c'est de proposer son aide aux salles ou aux orgas, pour faire les entrées, une quiche, servir au bar, faire un peu de ménage... ça vous permettra d'observer les pratiques, de démystifier le bordel et vous constituer un petit réseau, idéalement des gens qui aiment le même genre de groupes que vous ou qui ont une vision similaire de l'organisation.
 
 Pourquoi organiser un concert ?
-Pas pour gagner de l'argent ! on y reviendra dans la section consacrée aux thunes [P.XX] Même quand le concert a bien marché et qu'on a réussi à payer correctement les groupes (et pourquoi pas soyons fols l'affichiste et l'ingé son) et à se rembourser, s'il reste un peu d'argent mieux vaut le mettre de côté pour le prochain concert à perte. On peut aussi organiser des soirées de soutien, dans ce cas les groupes sont OK pour être simplement défrayés (remboursés des frais type transport) et pas payés, et l'argent en rab' va aux assos soutenues.
+Pas pour gagner de l'argent ! On y reviendra dans la section consacrée aux thunes [P.XX] Même quand le concert a bien marché et qu'on a réussi à payer correctement les groupes (et pourquoi pas soyons fols l'affichiste et l'ingé son) et à se rembourser, s'il reste un peu d'argent mieux vaut le mettre de côté pour le prochain concert à perte. On peut aussi organiser des soirées de soutien, dans ce cas les groupes sont OK pour être simplement défrayés (remboursés des frais type transport) et pas payés, et l'argent en rab' va aux assos soutenues. Pas pour trouver un boulot non plus ! (même si on peut toujours "valoriser ses compétences" et bullshiter un recruteur ou un conseiller pôle emploi, celleux qui trouvent un boulot "officiel" dans la musique continuent souvent une activité DIY en parallèle). 
+Le concert DIY n'est pas un moyen mais bien une fin en soi, le plaisir (parfois un tantinet ingrat) de créer un moment unique, l'occasion de rencontres, de faire jouer un groupe ou faire vivre une scène musicale qu'on aime. C'est aussi l'occasion de sortir d'un rapport purement consommateur à la culture en se réappropriant les moyens de production et en devenant acteurs/actrices au plus près d'un idéal d'autogestion.
 
-Pas pour trouver un boulot ! (même si on peut toujours "valoriser ses compétences" et bullshiter un recruteur ou un conseiller pôle emploi, celleux qui trouvent un boulot "officiel" dans la musique continuent souvent une activité DIY en parallèle). Le concert DIY n'est pas un moyen mais bien une fin en soi, le plaisir (parfois un tantinet ingrat) de créer un moment unique, l'occasion de rencontres, de faire jouer un groupe ou faire vivre une scène musicale qu'on aime.
 |Contacter les groupes, dealer la date
 
 Quand vous aurez quelques organisations à votre actif, le bouche à oreille fera son travail et des groupes vous contacteront probablement d'eux mêmes. Pour une toute première orga, il est préférable et moins risqué de faire jouer des groupes locaux et/ou des ami·es. Nous allons voir ici comment contacter un groupe que vous ne connaissez pas personnellement pour leur proposer une date.
 
-1. Trouver le contact : idéalement en passant par le site ou le bandcamp du groupe, vous trouverez un contact direct. Parfois vous trouverez le mail d'un booking agent* ou tourneur, il faudra donc passer par cet intermédiaire pour convaincre, ce qui peut être plus ardu. N'hésitez pas à vous renseigner avant si des concerts sont prévus dans les mois qui viennent, vous trouverez peut être un day off* sur la route qui vous donnera un argument de poids.
+1. Trouver le contact : idéalement en passant par le site ou le bandcamp du groupe, vous trouverez un contact direct. Parfois vous trouverez le mail d'un booking agent/booker* ou tourneur, il faudra donc passer par cet intermédiaire pour convaincre, ce qui peut être plus ardu. N'hésitez pas à vous renseigner avant si des concerts sont prévus dans les mois qui viennent, vous trouverez peut être un day off* sur la route qui vous donnera un argument de poids.
 
-2. Se présenter : même si vous n'avez jamais organisé de concert avant c'est le moment de valoriser votre bénévolat, votre fanitude, votre dévouement. Parlez de votre ville et des différentes salles que vous envisagez pour le groupe, expliquez les conditions financières, votre démarche DIY, rassurez le groupe en leur parlant de votre clic-clac super confortable ou de vos talents de cuisinier·e. L'accueil est souvent tout aussi important que l'aspect financier (voire plus) pour les groupes en tournée !
+2. Se présenter : même si vous n'avez jamais organisé de concert avant c'est le moment de valoriser votre bénévolat, votre fanitude, votre dévouement. Parlez de votre ville et des différentes salles que vous envisagez pour le groupe, expliquez les conditions financières, votre démarche DIY, rassurez le groupe en leur parlant de votre clic-clac super confortable ou de vos talents de cuisinier·e. L'accueil est souvent tout aussi important que l'aspect financier (voire parfois plus) pour les groupes en tournée !
 
-3. Si le groupe ou le tourneur répond positivement, on entame ensuite le processus de négociation. Dès qu'une date ou une période est mentionnée commencez immédiatement à démarcher des salles (voir p.), vous ne pourrez pas valider la date et les conditions sans savoir où le groupe joue. 
-Normalement vous avez déjà évoqué votre économie précaire dans votre présentation. Pour rassurer le groupe vous pouvez garantir un minimum financier. Ce minimum doit être le plus bas possible, car en cas de plantade (ça arrive !) vous devrez sortir cet argent de votre poche, n'oubliez pas que vous aurez aussi dépensé de l'argent pour les affiches, les boissons, la bouffe etc. Ce minimum va dépendre des frais qu'aura le groupe, de leur notoriété (et donc du public potentiellement présent), du prix de la place et des conditions de la salle. 
+3. Si le groupe ou le tourneur répond positivement, on entame ensuite le processus de négociation. Dès qu'une date ou une période est mentionnée commencez immédiatement à démarcher des salles (voir p.XX), vous ne pourrez pas valider la date et les conditions sans savoir où le groupe joue. 
+Normalement vous avez déjà évoqué votre économie précaire dans votre présentation. Pour rassurer le groupe vous pouvez garantir un minimum financier. Ce minimum doit être le plus bas possible, car en cas de plantade (ça arrive !) vous devrez sortir cet argent de votre poche! N'oubliez pas que vous aurez aussi dépensé de l'argent pour les affiches, les boissons, la bouffe etc. Ce minimum va dépendre des frais qu'aura le groupe, de leur notoriété (et donc du public potentiellement présent), du prix de la place et des conditions de la salle. 
 
-Vous pouvez ensuite garantir que tout l'argent des entrées, une fois que vous aurez remboursé vos frais et ce minimum garanti, leur reviendra (ou vous pouvez distribuer le surplus 80/20 avec la première partie, ou donner une partie de l'argent en soutien à la salle qui vous accueille)
+Vous pouvez ensuite garantir que tout l'argent des entrées, une fois que vous aurez remboursé vos frais et ce minimum garanti (le break*), leur reviendra (ou vous pouvez distribuer le surplus 80/20 avec la première partie, ou donner une partie de l'argent en soutien à la salle qui vous accueille...)
 
-Traditionnellement, on essaye aussi de recruter un groupe local (1e partie). On peut chercher une esthétique similaire ou jouer sur le clash des styles (attention quand même à ce que ça s'enchaîne bien), le groupe local joue souvent un rôle important car il fait venir son public et participe à la promo de la soirée, surtout si le groupe en tournée n'est pas très connu. Il faut donc s'assurer que le public de la première partie est susceptible d'apprécier la musique de la seconde partie, et il faut chouchouter le groupe ! Assurez-vous de les traiter avec la même diligence que les "stars" : ils doivent bien manger, être un minimum défrayés (un minimum de 50€ si vous le pouvez, plus si la soirée a du succès), avoir de la place au stand de merch, être visibles sur l'affiche et dans la com...
+Traditionnellement, on essaye aussi de recruter un groupe local (1e partie). On peut chercher une esthétique similaire ou jouer sur le clash des styles (attention quand même à ce que ça s'enchaîne bien). Le groupe local joue souvent un rôle important car il fait venir son public et participe à la promo de la soirée, surtout si le groupe en tournée n'est pas très connu. Il faut donc s'assurer que le public de la première partie est susceptible d'apprécier la musique de la seconde partie, et il faut chouchouter le groupe ! Assurez-vous de les traiter avec la même diligence que les "stars" : ils doivent bien manger, être un minimum défrayés (un minimum de 50€ si vous le pouvez, plus si la soirée a du succès), avoir de la place au stand de merch, être visibles sur l'affiche et dans la com...
 
-D'un point de vue technique, il est souhaitable que les différents groupes partagent une partie de leur matériel (backline*) afin d'éviter les gros déménagements entre chaque set, et que le/la sondier·e* tire la tronche. En fonction de ce qu'amène le groupe en tournée on demandera au groupe local de compléter, ou de jouer sur une partie du matos de l'autre groupe, si celui-ci accepte de prêter ses jouets. Il est notamment préférable de n'avoir qu'une batterie sur scène, mais sachez qu'il y a des "parties molles" que les batteurs ne prêtent pas, le/la batteur·se ne se déplaçant jamais sans ses parties molles personnelles_ ._ .
+D'un point de vue technique, il est souhaitable que les différents groupes partagent une partie de leur matériel (backline*) afin d'éviter les gros déménagements entre chaque set, et que le/la sondier·e* tire la tronche. En fonction de ce qu'amène le groupe en tournée on demandera au groupe local de compléter, ou de jouer sur une partie du matos de l'autre groupe, si celui-ci accepte de prêter ses jouets. Il est notamment préférable de n'avoir qu'une seule batterie sur scène, mais sachez qu'il y a des "parties molles" que les batteurs ne prêtent pas, le/la batteur·se ne se déplaçant jamais sans ses parties molles personnelles_ ._ .
 
-Encadré/Tuto : The Art of The Deal, par Stiol, organisatrice flemmarde "mon levier c'est que je préfèrerais toujours payer ma place pour voir un groupe pépouze plutôt que perdre des points de vie et des thunes à organiser, donc si un groupe est un peu trop "gourmand" par rapport à ce que je pense pouvoir me permettre, je commence par les diriger vers d'autres orgas ou salles pros qui pourraient mieux correspondre. Ma spécialité c'est les day-offs et les cas désespérés ! En étant bien claire dès le début sur l'économie en jeu et le fait que je garde aucune thune pour moi, les groupes qui acceptent un minimum garanti bas avec 100% des bénefs comprennent la démarche, et ça se passe toujours super bien."
+ENCADRÉ LYONNAIS : The Art of The Deal, par Stiol, organisatrice flemmarde "mon levier c'est que je préfèrerais toujours payer ma place pour voir un groupe pépouze plutôt que perdre des points de vie et des thunes à organiser, donc si un groupe est un peu trop "gourmand" par rapport à ce que je pense pouvoir me permettre, je commence par les diriger vers d'autres orgas ou salles pros qui pourraient mieux correspondre. Ma spécialité c'est les day-offs et les cas désespérés ! En étant bien claire dès le début sur l'économie en jeu et le fait que je garde aucune thune pour moi, les groupes qui acceptent un minimum garanti bas avec 100% des bénefs comprennent la démarche, et ça se passe toujours super bien."
+
 |Date et heure et météo
 
-La date est souvent imposée par les nécessités de routing (trajet) du groupe en tournée._ Les dimanches et lundis sont les jours les plus redoutés pour les organisateurs de concerts car ce sont les soirs où le public est le moins susceptible de sortir , surtout s'il a un peu trop profité de son weekend (et la plupart des salles sont fermées). Ceci dit il n'aime pas trop les jeudis, vendredis et samedis non plus à cause de la concurrence. Et les mardis et mercredis, de par leur position intermédiaire, sont toujours imprévisibles. 
+La date est souvent imposée par les nécessités de routing (trajet) du groupe en tournée. Les dimanches et lundis sont les jours les plus redoutés pour les organisateurs de concerts car ce sont les soirs où le public est le moins susceptible de sortir , surtout s'il a un peu trop profité de son weekend (et la plupart des salles sont fermées). Ceci dit il n'aime pas trop les jeudis, vendredis et samedis non plus à cause de la concurrence. Et les mardis et mercredis, de par leur position intermédiaire, sont toujours imprévisibles. 
 
-Autre variable impossible à maîtriser : la météo. Un rayon de soleil fourbe vient réchauffer le début de soirée et tout le public fait un apéro en terrasse au lieu de venir s'enfermer dans votre salle obscure. Une goutte de pluie traîtresse vient humidifier l'ambiance et plus personne n'ose sortir._
+Autre variable impossible à maîtriser : la météo. Un rayon de soleil fourbe vient réchauffer le début de soirée et tout le public fait un apéro en terrasse au lieu de venir s'enfermer dans votre salle obscure. Une goutte de pluie traîtresse vient humidifier l'ambiance et plus personne n'ose sortir de chez lui.
 
-L'heure varie en fonction du jour et des possibilités que vous avez de nourrir le public. Si le dimanche tout est permis, en semaine on ne commencera souvent pas avant 19h (si vous pouvez nourrir le public) ou 20h30 (dans le cas contraire). Cela dépend aussi des contraintes de la salle, qui doit peut être fermer boutique tôt à cause du voisinage, et des horaires des transports en commun. (Pour les métros lyonnais : à peu près minuit en semaine et à peu près 1h40 les vendredis et samedis). Reprise des premiers métros vers 5h, en cas de boum.
-____
+L'heure varie en fonction du jour et des possibilités que vous avez de nourrir le public. Si le dimanche tout est permis, en semaine on ne commencera souvent pas avant 19h (si vous pouvez nourrir le public) ou 20h30 (dans le cas contraire). Cela dépend aussi des contraintes de la salle, qui doit peut être fermer boutique tôt à cause du voisinage, et des horaires des transports en commun. 
+
+ENCADRÉ LYONNAIS : Pour les TCL : à peu près minuit en semaine et à peu près 1h40 les vendredis et samedis. Reprise des premiers métros vers 5h, en cas de boum.
+
 |Lieu
 
-La recherche d'un lieu pour un concert s'enclenche le plus tôt possible, car cela peut prendre plusieurs jours, voire semaines. Il faut donc s'armer d'un bon carnet d'adresses, d'imagination et de patience.Pour trouver le bon lieu, il faut aussi prendre en compte sa jauge, les styles musicaux associés, les conditions d'organisation, etc. Il faut savoir garder les yeux et les oreilles ouvertes à la recherche de nouveaux endroits qui ont l'avantage de n'avoir pas encore été fermés à cause de leur voisinage, souvent peu porté sur l'artistique passé 21h30. Il sera ainsi bien plus facile de trouver une salle pour accueillir un solo acoustique de mime que pour un groupe avec trois batteries.
+La recherche d'un lieu pour un concert s'enclenche le plus tôt possible, car cela peut prendre plusieurs jours, voire semaines. Il faut donc s'armer d'un bon carnet d'adresses, d'imagination et de patience. Pour trouver le bon lieu, il faut aussi prendre en compte sa jauge, les styles musicaux associés, les conditions d'organisation, etc. Il faut savoir garder les yeux et les oreilles ouvertes à la recherche de nouveaux endroits qui ont l'avantage de n'avoir pas encore été fermés à cause de leur voisinage, souvent peu porté sur l'artistique passé 21h30. Il sera ainsi bien plus facile de trouver une salle pour accueillir un solo acoustique de mime que pour un groupe avec trois batteries.
 
-Chaque salle a ses avantages et ses inconvénients, pour résumer grossièrement on pourrait dire que les lieux où vous pourrez récolter le plus d'argent (une partie du bar, dans les squats ou à Grrrnd Zero) sont aussi ceux qui vous demanderont le plus de boulot d'organisation.
+Chaque salle a ses avantages et ses inconvénients, pour résumer grossièrement on pourrait dire que les lieux où vous pourrez récolter le plus d'argent (une partie du bar par exemple dans les squats ou salles autogérées) sont aussi ceux qui vous demanderont le plus de boulot d'organisation.
 
 Plusieurs questions se posent avant de contacter un lieu : est-ce que l'esthétique ou le niveau sonore des groupes correspond à la salle ? Quelle est la jauge ? Y a-t-il un·e sondier·e et du matériel à dispo ? Il faut ensuite que la salle soit disponible pour votre date, et réponde à ses mails ou soit joignable d'une quelconque façon.
 
@@ -64,33 +69,40 @@ Dans la plupart des cas le deal est : les entrées sont pour l'orga (vous), le b
 Les lieux plus institutionnels (type SMACs*) pourront prendre en charge certains éléments, comme le son, voire le catering. Ils peuvent aussi prélever un pourcentage des entrées. 
 
 Les bars ou les clubs : vous laissent les entrées, disposent en général d'une sono de base s'ils ont l'habitude des concerts. Il arrive que le bar laisse une partie de ses bénefs à l'orga, ce qui peut drastiquement changer la donne, ou qu'un restau gère le catering, ce qui est sympa.
+
 Les bars associatifs et clubs privés : vous laissent les entrées mais il faut en général prévoir un ou deux euros d'adhésion qui vont à la salle.
 
-Lieux autogérés (type gz, squats) : l'organisation est plus lourde, vous devez potentiellement gérer le bar, avoir une bonne team de bénévoles, et disposer de contacts directs avec les collectifs. Cela peut cependant vous permettre d'avoir une partie de la vente de boissons ou de nourriture en plus des entrées, ce qui permet en général de s'en sortir financièrement, même à prix libre*.
+Lieux autogérés (associatifs, squats) : l'organisation est plus lourde, vous devez potentiellement gérer le bar, avoir une bonne team de bénévoles, et disposer de contacts directs avec les collectifs. Cela peut cependant vous permettre d'avoir une partie de la vente de boissons ou de nourriture en plus des entrées, ce qui permet en général de s'en sortir financièrement, même à prix libre*.
 
-_AU SECOURS JE N'AI PAS TROUVÉ DE LIEU !
-_C'est le moment de puiser dans ses ressources et de faire preuve d'imagination : peut-on envisager un concert en appartement ? Un concert sauvage dans un lieu désaffecté ? Et si on en profitait pour faire le tour des bars, restaus, salle des fêtes de quartiers méconnus et dégotter le prochain bon plan ?
+AU SECOURS JE N'AI PAS TROUVÉ DE LIEU !
+C'est le moment de puiser dans ses ressources et de faire preuve d'imagination : peut-on envisager un concert en appartement ? Un concert sauvage dans un lieu désaffecté ? Et si on en profitait pour faire le tour des bars, restaus, salle des fêtes de quartiers méconnus et dégotter le prochain bon plan ?
+
+ENCADRÉ LYONNAIS : Bon plan villemorte.fr/lieux pour trouver des idées et des contacts !
+
 |Budget
 
-Les concerts DIY sont, par essence, accessibles à tous et peu chers. Le prix d'entrée est calculé sur la base des frais de la soirée, de l'arrangement avec la salle et de la jauge estimée. Si les coûts sont très faibles, et/ou si vous touchez une partie du bar, vous pouvez sereinement opter pour le prix libre, c'est à dire qu'il revient au public de décider du montant qu'il peut ou veut mettre dans son entrée. Le prix libre n'est pas synonyme de gratuité et il peut être nécessaire de faire de la pédagogie à ce sujet aux entrées, sans stigmatiser quiconque. Si vous ne touchez pas l'argent du bar et que vous voulez éviter le public qui donne ses fonds de poche aux entrées et craque ses gros billets en bière, vous pouvez préférer la stratégie souple mais ferme du "plus ou moins [cinq] euros". Le paiement dématérialisé se généralisant il peut être bon de préciser dans votre com si vous n'acceptez que le cash.
+Les concerts DIY sont, par philosophie, accessibles à tous et peu chers. Le prix d'entrée est calculé sur la base des frais de la soirée, de l'arrangement avec la salle et de la jauge estimée. Si les coûts sont très faibles, et/ou si vous touchez une partie du bar, vous pouvez sereinement opter pour le prix libre, c'est à dire qu'il revient au public de décider du montant qu'il peut ou veut mettre dans son entrée. Le prix libre n'est pas synonyme de gratuité et il peut être nécessaire de faire de la pédagogie à ce sujet aux entrées, sans stigmatiser quiconque. Si vous ne touchez pas l'argent du bar et que vous voulez éviter le public qui donne ses fonds de poche aux entrées et craque ses gros billets en bière, vous pouvez préférer la stratégie souple mais ferme du "plus ou moins [cinq] euros". Le paiement dématérialisé se généralisant il peut être bon de préciser dans votre com si vous n'acceptez que le cash.
 
 Calculer ses coûts :
 
-- défraiement et cachets des musiciens, sans oublier le groupe local
+- défraiement et cachets* des musiciens, sans oublier le groupe local
 
-- courses, catering : il faut prévoir à manger et à boire pour l'ensemble des musicien·nes, des orgas, des bénévoles, de l'équipe technique. Trouvez le point d'équilibre crust-chic entre les produits frais, locaux, fait-maison, toujours appréciés, et les plans récup, prix de gros, déstockage, qui sauveront votre budget. Côté boissons il n'y aura de toute façon jamais assez de bière, vous pouvez raisonnablement poser une limite (1 Litre par personne)
+- courses, catering : il faut prévoir à manger et à boire pour l'ensemble des musicien·nes, des orgas, des bénévoles, de l'équipe technique. Trouvez le point d'équilibre crust-chic entre les produits frais, locaux, fait-maison, toujours appréciés, et les plans récup, prix de gros, déstockage, qui sauveront votre budget. Côté boissons il n'y aura de toute façon jamais assez de bière, vous pouvez raisonnablement poser une limite (1 Litre par personne?)
 
-- affichage : prévoir environ une trentaine d'euros pour quelques centaines d'affiches A3 noir et blanc tirées à la COREP. Vous pouvez aussi opter pour la sérigraphie et la risographie, vous aurez besoin de moins d'affiches si vous collez que si vous scotchez.
+- affichage : prévoir environ une trentaine d'euros pour quelques centaines d'affiches A3 noir et blanc chez un imprimeur cheapos. Vous aurez besoin de moins d'affiches si vous collez que si vous scotchez.
 
 - location éventuelle de matériel son : à éviter, essayez de vous faire prêter au maximum le matos manquant.
 
-- parking : pour la sérénité de tous il est parfois bon de payer un parking sécurisé (20euros forfait 24h au parking Bonnefoi)
+- parking : pour la sérénité de tous il est parfois bon de payer un parking sécurisé, assez haut pour laisser passer les véhicules de tournée.
+ENCADRÉ LYONNAIS : 20€ FORFAIT 24H PARKING BONNEFOI LYON 3E
 
 - Affichiste, si ce n'est pas vous qui avez fait l'affiche, et ingé-son, s'il ou elle n'est pas payé par la salle. Si votre budget est serré voyez avec eux la meilleure façon de les remercier (tickets boissons, goodies, invits) et mettez en avant leur travail dans votre promo et vos remerciements.
 
 - Hôtel, location : cas extrêmes et désespérés, à éviter à tout prix, car cela peut planter l'économie de votre soirée.
 
-Les rentrées d'argent potentielles : les entrées, éventuellement les boissons (en fonction de la salle), vente de nourriture (en fonction de votre énergie et de la salle), vente de goodies type affiches (attention à ne pas faire concurrence au merch du groupe).|Tuto promo : faire son affiche, par Thibo
+Les rentrées d'argent potentielles : les entrées, éventuellement les boissons (en fonction de la salle), vente de nourriture (en fonction de votre énergie et de la salle), vente de goodies type affiches (attention à ne pas faire concurrence au merch du groupe).
+
+|Tuto promo : faire son affiche, par Thibo
 
 Tu veux faire ton affiche mais tu n'es pas graphiste, ni illustrateur.trice ?
 C'est pas grave, en allant à l'essentiel tout va bien se passer !
@@ -102,17 +114,17 @@ Les ingrédients :
 ________ - Les groupes: En ce qui concerne l'inscription des noms, il y a plusieurs approches : l'approche pragmatique veut que le nom de la tête d'affiche (s'il y en a une) soit plus gros et plus visible ; l'approche égalitaire veut que tous les noms soient à peu près à la même taille.
 ________ - Le lieu ou mail de contact pour connaître l'adresse (utile lorsque le lieu est officieux ou incertain)
 ________ - La date, éventuellement l'heure d'ouverture des portes Il est d'usage de mentir d'une grosse demi-heure entre l'heure annoncée et le début des concerts, afin que le public, ce grand enfant, n'arrive pas trop en retard. A partir d'1h30 de décalage, ce retard est cependant considéré comme une indélicatesse.
-________ - le prix d'entrée, prix libre ou PAF (participation aux frais) et éventuellement (l'indication de préventes éventuelles : est-ce qu'on conseille un service type yesgolive ou non ?): non
+________ - le prix d'entrée, prix libre ou PAF (participation aux frais) et éventuellement (l'indication de préventes* éventuelles)
 ________ - Les étiquettes/descriptions: Elles servent à identifier le groupe de manière générique ou imagée, comique, voire carrément ésotérique. Mais elles sont au moins une tentative de faire comprendre ce dont il s'agira. On peut aussi ajouter la ville ou le pays d'origine, le nom d'un label associé, voire d'un membre du groupe célèbre.________
 ________ - le nom du ou des organisateur(s) : Facultatif, et plus ou moins discret, le nom d'orga est soit un nom récurrent_ (voire institutionnalisé, comme un nom d'asso), ce qui permet d'en identifier la programmation, soit un nom fluctuant, insolite et contextuel qui laisse planer le mystère sur l'identité des instigateurs.
 
 Le format
 Commencez par définir le format de votre visuel : A4, A3, publication sur un réseau social, bannière sur un site web ...
-Créez un document sur votre logiciel préféré (Illustrator / Inkscape, Photoshop / Gimp, Indesign ...)
+Créez un document sur votre logiciel préféré (Illustrator / Inkscape, Photoshop / Gimp, Indesign ...) > Logiciel Libre Inkscape, Scribus, Gimp, Krita...
 - au format final (en cm sur papier et en pixel sur écran)
 - au mode colorimétrique de destination : CMJN pour de l'impression et RVB pour l'écran
 - à la résolution de destination : 300 dpi (pixel par pouce) pour l'impression et 72dpi pour l'écran.
-L'impression en couleur coûte plus cher et vous aurez sans doute la contrainte de tirer vos affiches en noir et blanc. Cela n'empêche pas de travailler un visuel en couleur pour la version écran mais assurez vous que le rendu en noir et blanc soit bien lisible de loin et suffisament contrasté.
+L'impression en couleur coûte plus cher et vous aurez sans doute la contrainte de tirer vos affiches en noir et blanc (ou noir sur du papier de couleur). Cela n'empêche pas de travailler un visuel en couleur pour la version écran mais assurez vous que le rendu en noir et blanc soit bien lisible de loin et suffisament contrasté.
 
 Les infos
 Commencez par hiérarchiser les informations (textes) selon un ordre de lecture pertinent. Travaillez en une seule couleur à cette étape, avec une police de caractère lisible en petite et grande taille, ou une police pour les grands titres et une autre pour les informations plus petites.
@@ -125,80 +137,82 @@ Une fois finie (je sais, c'est dur...) vous pouvez exporter votre image en pdf e
 
 Pour l'impression on a plusieurs solutions :
 - photocopies sauvages au boulot
-- impression de masse dans une COREP
-- sérigraphie (blackscreen ?)
-- risographie (toner toner ?) tonertoner@riseup.net / https://www.facebook.com/jeanmichellestonertoner/
+- impression de masse chez un imprimeur pro pas cher
+- sérigraphie 
+- risographie 
+
+ENCADRÉ LYONNAIS : COREP / BLACKSCREEN / TONERTONER tonertoner@riseup.net
 
 Si tu ne veux/peux pas faire ton affiche toi-même tu peux toujours demander aux copains copines graphistes, illustrateurs-trices dont le travail te plaît susceptibles d'aimer les groupes que tu programmes ! Même s'il y a énormément de magnifiques affiches qui ont été réalisées gracieusement par de gens de talent, il ne faut pas perdre de vue que c'est un travail, et un travail qualifié. Ne soyez pas trop exigeants si vous ne payez pas (éviter les milliers de corrections, donnez toutes les infos d'un coup, soyez souples sur la deadline), mettez en avant l'affiche et son auteur dans votre com...
 
-On prévoit plusieurs centaines d'exemplaires pour scotcher et repasser plusieurs fois (la guerre d'affiches fait rage dans les endroits les plus populaires, les pentes de la croix-rousse et guillotière) ou plusieurs dizaines si on souhaite uniquement coller dans des endroits peu recouverts. C'est aussi bien de penser à scotcher autour du lieu du concert.
-S'il vous reste quelques affiches vous pouvez les donner ou vendre le soir du concert.
+On prévoit plusieurs centaines d'exemplaires pour scotcher et repasser plusieurs fois ou plusieurs dizaines si on souhaite uniquement coller dans des endroits peu recouverts. C'est aussi bien de penser à scotcher autour du lieu du concert.
+S'il vous reste quelques affiches vous pouvez les donner ou les vendre le soir du concert. Prévoir également une centaine de planches A4 de 4 flyers à distribuer dans les lieux culturels, salles, bars, disquaires.
 
-ENCADRE AFFICHAGE LIBRE : où coller ? / les endroits à éviter https://www.service-public.fr/professionnels-entreprises/vosdroits/F24356
-Historique des procès - brigade verte - murs blancs peuple muet
-Prévoir également une centaine de planches A4 de 4 flyers à distribuer dans les lieux culturels, salles, bars, disquaires.
+ENCADRE AFFICHAGE LIBRE, UNE TRADITION LYONNAISE :  L'affichage ça coûte (un peu) d'argent et ça prend (beaucoup) de temps, d'autant que la guerre d'affiches (recollage et arrachage intempestif) fait rage dans les endroits les plus populaires, les pentes de la croix-rousse et guillotière. Mais c'est aussi et surtout une tradition lyonnaise à préserver absolument, pour laquelle il faut se battre en ouvrant toujours de nouveaux spots sur les murs et les vitrines abandonnées. A la fin des années 2000 des procès faits aux orgas et aux salles ont mis en lumière ce combat et ont fédéré contre la "brigade verte" autour du slogan "murs blancs, peuple muet" (voir Ressources). L'affichage permet de toucher un public hors de nos réseaux, les nouveaux arrivants, les curieux·ses... Et quelle joie de déambuler au hasard dans la ville pour se réapproprier les murs !
 
-Communiquer sur son concert (sans Zuckerberg), Outils Libres.
-On est pas là pour vous apprendre à vous servir de facebook event, instagram et twitter. Faites votre truc s'il le faut. Sachez simplement que l'algorithme n'est pas votre ami
-- contacter les radios et les émissions locales (Canut / Nova Lyon / Sol FM / Radio Brume - Campus)
-- envoyer sa date au Petit Bulletin (3 semaines avant)
-- envoyer sa date à Ville Morte (dès que possible ou avant le 20 du mois qui précède), poster sur awesomeboard et autres forums spécialisés.
-- envoyer une newsletter et/ou des sms à ses potes
-- poster sa date sur Mobilizon (alternative aux événements facebook)
+où coller ? Lorsque vous ouvrez un nouveau spot (lieu de scotchage / collage), privilégiez les murs aveugles (sans fenêtres), les vitrines abandonnées, les clôtures de chantier... Prenez exemple sur les affiches de concert qui survivent plusieurs jours, et évidemment évitez de recoller la concurrence lorsque leur date n'est pas passée (exemption morale pour les colleurs pros qui recouvrent tout un panneau avec plusieurs exemplaires de leurs A0, là vous pouvez y aller sans craindre pour votre karma)
+
+
+
+Communiquer sur son concert sans les GAFAM
+L'algorithme n'étant pas votre ami, évitez de vous cantonner aux réseaux sociaux pour votre com. En plus de la com par affiches et flyers, vous pouvez aussi :
+- contacter les radios et les émissions locales, les journaux culturels locaux, les forums spécialisés, sites et agendas de votre ville. 
+- envoyer une newsletter et/ou des sms à vos potes
+- poster votre date sur Mobilizon (alternative aux événements facebook)
+
+ENCADRÉ LYONNAIS (Canut / Nova Lyon / Sol FM / Radio Brume - Campus)
+- envoyer sa date au Petit Bulletin (8 jours avant le mercredi de parution, attention c'est désormais une fois tous les quinze jours) https://www.petit-bulletin.fr/lyon/corporate-programme.html
+- envoyer sa date à Ville Morte (dès que possible ou avant le 20 du mois qui précède)
+
+
 
 |Point légal de Maitre Aquabe - pages couleur ?
 
-Ce guide décrit des pratiques qui vont de l'infralégal toléré au carrément illégal, il est important de connaître la loi et les risques pour faire ses choix de façon éclairée. Si une orga DIY est, en terme administratif,_ beaucoup plus libre et légère qu'une orga légale ou institutionnelle, il peut y avoir des inconvénients, principalement pour les groupes non déclarés s'ils sont intermittents par ailleurs.
-il y a de la place pour les deux, c'est bien que les groupes puissent se professionnaliser, et qu'il existe un écosystème pro qui paye des cachets avec des gens qui vivent de la musique. Mais on a aussi besoin des concerts amateurs, qui payent en cash, pour les groupes débutants ou les groupes qui sont dans un rejet de la professionnalisation revendiquée
-https://www.maif.fr/associationsetcollectivites/associations/guides-manifestations/organiser-concert-occasionnel.html
-___ * déclarer le concert en tant que particulier
-https://www.guso.fr/information/accueil;JSESSIONID_JAHIA=7FBBD72BE86F950D2CC77194202AF2E9#
-___ * sacem et co : demander a Cédric ?
-___ * déposer une asso : https://www.rhone.gouv.fr/Demarches-administratives/Associations#!/Associations
-___ * licence de spectacles : https://www.service-public.fr/associations/vosdroits/F22365
-___ attention à la vente d'alcool : https://www.service-public.fr/associations/vosdroits/F24345
+C'est très bien qu'il existe un écosystème professionnel qui paye des cachets aux gens qui vivent de la musique. Mais on a aussi besoin des concerts amateurs, qui payent en cash les groupes pas très connus ou qui sont dans un rejet de la professionnalisation revendiquée.
+Ce guide décrit des pratiques qui vont de l'infralégal toléré au carrément illégal, il est important de connaître la loi et les risques pour faire ses choix de façon éclairée. Si une orga DIY est d'un point de vue administratif beaucoup plus libre et légère qu'une orga légale ou institutionnelle, il peut y avoir des inconvénients, principalement pour les groupes non déclarés s'ils sont intermittents par ailleurs.
+Si vous n'êtes pas un phobique administratif et que vous souhaitez rester dans les clous, vous pouvez déclarer un certain nombre de concerts en tant que particulier (GUSO), ou vous structurer en asso (voir Ressources). C'est à partir de la licence de spectacles que ça se complique, vous trouverez de plus amples renseignements là dessus sur le Grand Internet car cela dépasse le cadre de ce guide. Souvenez-vous simplement que la SACEM est une mafia, et que chaque centime qu'ils ne touchent pas est une petite victoire.
 
-Explication du cadre légal : demander à une SMAC (La Tannerie ? Périscope ?)
-
-____|L'orga de l'orga: > Rétroplanning [fusionner]
+____|L'orga de l'orga [frise chronologique]
 _
 - contact avec le groupe entre 6 et 2 mois avant la tournée : avoir une idée des besoins techniques et financiers
 - booker la salle qui correspond (voir Lieu) dès que possible pour bloquer la date au plus tard 2 mois avant (variable, on peut toujours faire une date à l'arrache au dernier moment avec un peu de chance mais c'est moins confort)
 - trouver une "première partie" ou un coplateau disponible à la date choisie
-- Renvoyer un récap du deal avec des adresses (concert et hébergement) + horaires précis (arrivée des groupes, heure et durée du soundcheck et du set, heure de fermeture) aux orgas + salle + groupes
-___ * Feuille de route : adresses, horaires, contacts - groupes, salle, technicien, hébergeurs,_
-___ Feuille de route, un exemple :
+- Renvoyer une feuille de route : récap du deal avec des adresses (concert et hébergement) + contacts + horaires précis (arrivée des groupes, heure et durée du soundcheck et du set, heure de fermeture) aux orgas + salle + groupes + techniciens... Les groupes arrivent quasiment toujours en retard, anticipez cette éventualité.
+un exemple :
 PROMOTER : [Organisateur] contact
 VENUE : [Salle] adresse, parking, GPS
 SAFE PARKING FOR THE NIGHT :_
 HOSTEL : Adresse & détails du lieu d'hébergement_
 TIMESHEET :
 5pm : get-in
-5:30 - 7pm : soundcheck groupe 1
-7-8pm : soundcheck groupe 2
+5:30 - 7pm : soundcheck groupe 2
+7-8pm : soundcheck groupe 1
 8:30 : ouverture des portes / doors
 9 pm : Groupe 1
 10 pm : Groupe 2
 00 am : curfew
-- Dès que le plateau est complet (ou avant si la première partie tarde) annoncer sa date sur Ville Morte / Le Petit Bulletin, parutions papier avec des deadlines en amont (voir promo)
+- Dès que le plateau est complet (ou avant si la première partie tarde) démarrer sa promo et annoncer la date
 - Bricoler ou commissionner une affiche / visuel / flyers papier + web pour pouvoir lancer la com (4 à 6 semaines avant)
-- Un mois avant et jusqu'à la date, communiquer en physique et sur le web (voir Guerre d'affichage)
+- Un mois avant et jusqu'à la date, afficher, flyer et communiquer sur le web
 _- En cas de besoin se renseigner pour compléter la Sono (loc ? prêt ?) et trouver un pote ingé son dispo.
-_- Si c'est vous qui gérez le bar, pensez à commander les fûts et les tireuses > Combien de temps avant ? encadré controverse Grihète / Brasserie du Pilat
-_Ne négligez pas les softs
-___ * monter sa A team pour pouvoir profiter du concert (bénévoles, bar, catering, entrées) (prévoir des roulements si possible)
-___ * Parking : Les musiciens se déplacent souvent en van de location avec du matos assez précieux, d'où l'importance de trouver un parking sécurisé, (à moins de pouvoir laisser les instruments dans la salle et les récupérer le lendemain ou décharger sur le lieu d'hébergement). Si vous optez pour l'option parking sécurisé, c'est important de connaître la hauteur du van dès que possible car très peu de parkings fermés sont accessibles pour les véhicules de + d'1m90. N'hésitez pas à partager vos bons plans, on ne connaît que le parking bonnefoi, dans le 3e : https://parkingbonnefoi.fr/
+_- Si c'est vous qui gérez le bar, pensez à commander les fûts et les tireuses > Combien de temps avant ? 
+
+encadré lyonnais controverse Grihète / Brasserie du Pilat [A REDIGER PAR QUI ??]
+
+___ * monter sa A team pour pouvoir profiter du concert (bénévoles au bar, catering, entrées, cela dépend de la salle) (prévoir des roulements si possible)
+___ * Parking : Les musiciens se déplacent souvent en van de location avec du matos assez précieux, d'où l'importance de trouver un parking sécurisé, (à moins de pouvoir laisser les instruments dans la salle et les récupérer le lendemain ou décharger sur le lieu d'hébergement). Si vous optez pour l'option parking sécurisé, c'est important de connaître la hauteur du van dès que possible car très peu de parkings fermés sont accessibles pour les véhicules de + d'1m90. 
 ___ * Fond de Caisse : au guichet de sa banque. Les besoins (billets de 5, pièces de 1 ou 2€ ?) dépendent du prix d'entrée. Compter environ 150€ pour les entrées seules. (dépend de la jauge attendue) Prevoir deux fonds de caisse si vous gérez le bar. Ne faites pas ça au dernier moment car les banques sont parfois peu coopératives pour faire de la monnaie.
-___ * Faire le menu et les courses, la récup (la semaine qui précède)
-___ * tampons, feutres, stylos, billets physiques le cas échéant, enveloppes - vaisselle jetable (ou compostable, vive les abeilles, ou lavable, vive la plonge)
-_*prévoir des affiches en rab à donner au groupe , au public
+___ * Faire le menu et les courses, la récup (la semaine qui précède) _Ne négligez pas les softs
+___ * tampons/feutres (si vous faites des petites marques sur la main pour repérer le public ayant déjà payé, plus ou moins bien accueilli selon les lieux), stylos, tickets d'entrée physiques le cas échéant, enveloppes - vaisselle jetable (ou compostable, vive les abeilles, ou lavable, vive la plonge). Allez récupérer l'argent des préventes si vous en avez mis en place chez un disquaire.
+_*prévoir des affiches en rab à donner au groupe, au public
 - La veille ou le matin : voir section Catering
 - Le jour-même : voir section le jour même
+
 |Catering
 
 En préambule on va particulièrement prêter attention au rider ou poser la questions aux participants, attention aux allergies et régimes particuliers. Nous donnerons ici plutôt des recettes vegan, moins chères, moins risquées quant à la conservation et plus écolo.
-- BONS PLANS RECUPS ?
-- ASTUCES ? (si je savais faire un catering ça se saurait je vous laisse gérer ça les loulous)
+- BONS PLANS RECUPS : les fins de marché, les magasins bio...
+- ASTUCES ? 
 ___ * astuces (matériel, organisation, petits budgets)
 ___ 4 FICHES recettes (Sarah - Hisa - Gaelle - Valeriane - Jade)
 ____
@@ -216,62 +230,73 @@ ____
 
 _______ Facultative mais toujours appréciée, la vente de nourriture aux concerts se développe de plus en plus et pour diverses raisons : le lieu est perdu au milieu de nulle part, les organisateurs sont des passionnés de cuisine et/ou aiment trop leur public pour les laisser manger des kebabs à la viande de cheval, les concerts sont de plus en plus tôt pour ne pas froisser les voisins sus-nommés. Elle est souvent végétarienne et parfois issue de "récups" de fin de marché pour des raisons économiques et/ou politique
 ________
-_|Le jour-même, 
-Acceuil des artistes et du crew autour d'une bière d'un jus, ou un petit snack frais avant toute chose, toujours sympa apres un trajet qui etait peut etre long.
-___ * renseigner les groupes sur là où ils dorment, ce qu'ils peuvent boire et manger, des horaires de catering si c'est prevu, comment fonctionne le lieu où ils sont accueillis._
-___ * Une fois ces informations essentielles partagees on peut continuer avec les soundcheck avec le sondier. Pendant de ce temps on peut continuer avec l'installation de la salle, des tables de distros et de merch, et de l'accueil. 
-A l'entree preparer un fond de caisse, des tickets ou tampons, les horaires de passage de groupes, horaires de transport en commun (+ INFOS PRATIQUES TCL), distributeur cb proche, personnes referentes en cas de besoin, 
-___ * On suit les horaires de la fiche récap, toujours anticiper du retard et prévoir de la marge. Si le public des concerts indés est habitué à une certaine flexibilité horaire, plus de 30 minutes de retard par rapport à l'horaire annoncé commence à friser l'impolitesse. La priorité est de respecter les règles du lieu (voisinage) et les horaires des derniers transports en commun. (à Lyon avant minuit en semaine et avant 1h40 les vendredis et samedis)
+_|Le jour-même
+- Préparer les lits sur le lieu d'hébergement
+- Si vous avez fait à manger hors de la salle il faut déplacer les courses et le catering (sans voiture un bon vieux caddie vous sauvera la mise et vous comprendrez pourquoi on radine sur les bières : c'est lourd.)
+- Si la salle n'a pas de parking prévu, essayez de bloquer une place pas trop loin, et aidez à décharger le groupe quand il arrive.
+- Accueil des artistes et du crew autour d'une bière d'un jus, et un petit snack frais avant toute chose, toujours sympa apres un trajet qui était peut être long.
+___ * renseigner les groupes sur là où ils dorment, ce qu'ils peuvent boire et manger, des horaires de catering s'il y en a, comment fonctionne le lieu où ils sont accueillis._
+___ * Une fois ces informations essentielles partagées c'est l'heure du soundcheck*. Pendant de ce temps on peut continuer avec l'installation de la salle, des tables de distros et de merch, et de l'accueil. 
+A l'entrée : préparer un fond de caisse, des tickets ou tampons, les horaires de passage de groupes, horaires de transport en commun, distributeur cb proche, l'affichage de sensibilisation et le contact des personnes référentes de la soirée.
+___ * On suit les horaires de la fiche récap, toujours anticiper du retard et prévoir de la marge. Si le public des concerts indés est habitué à une certaine flexibilité horaire, plus de 30 minutes de retard par rapport à l'horaire annoncé commence à friser l'impolitesse. La priorité est de respecter les règles du lieu (voisinage) et les horaires des derniers transports en commun.
 ____
 Accueil du public/Ouverture des portes
-les infos a donner a l'entree Entrée (+adhésions) - tampon ou ticket papier
- plateau de bonbons vegan
- :  
-Prévention voisinage : limiter les éclats de voix dehors / devant la salle.
-Prévoir de la musique à diffuser à chaque changement de plateau, cela peut-être laissé à la discrétion de la personne à qui vous avez remis les manettes de la sono ou vous pouvez demander à un.e ami.e de goût de préparer une "selecta" par exemple.
+A l'entrée : faire payer l'entrée (et l'adhésion le cas échéant) en expliquant le fonctionnement de la soirée (où va l'argent des entrées, du bar...).
+Si vous souhaitez contrôler les entrées vous pouvez faire une petite marque sur le poignet ou distribuer des tickets papier.
+ASTUCE : Un plateau de bonbons vegan met tout le monde de bonne humeur.
+
+Prévoir de la musique à diffuser avant le concert et à chaque changement de plateau, cela peut-être laissé à la discrétion de la personne à qui vous avez remis les manettes de la sono ou vous pouvez demander à un.e ami.e de goût de préparer une "selecta" par exemple.
 
 Après le concert:
 - Payer tout le monde avec des petites enveloppes en rappelant le deal et le nombre de tickets vendus (en général il y a un responsable de l'argent par groupe, souvent le conducteur sobre du camion). Récupérer le matos et charger le camion, le soir-même ou le lendemain matin (en fonction des tenanciers du lieu, cela peut être parfois plus sûr de laisser le matos sur place si possible)
 - Faire un coup de ménage, remercier la salle
-- Garer le camion, le vider si le parking n'est pas sécurisé, installer tout le monde, vérifier l'heure du réveil prévue
-- Lancer le café, raccompagner tout le monde, merci c'était super bisou à la prochaine !
+- Garer le camion, le vider si le parking n'est pas sécurisé, installer tout le monde, vérifier l'heure du réveil prévue. En fonction des groupes, c'est le moment où vous lancez une tisane et chantez une berceuse ou celui où vous démarrez l'after. Assurez-vous que celles et ceux qui souhaitent dormir puissent le faire dans un calme relatif.
+[ENCADRÉ LYONNAIS : y a quoi d'ouvert après minuit ? Le piège du Nuage Noir]
+
+Le lendemain matin : 
+- Lancer le café, raccompagner tout le monde au camion, merci c'était super bisou à la prochaine !
 - Faire le ménage et la lessive, encore, toujours.
-Idéalement au moins une personne de l'orga est dispo tout l'après midi le jour du concert et une autre a minima le matin le lendemain. Il est également conseillé qu'une partie de l'organisation reste le plus sobre possible pendant toute la durée des opérations.
+
+Idéalement au moins une personne de l'orga est dispo tout l'après midi le jour du concert et une autre a minima le matin le lendemain. Il est également conseillé que la majeure partie de l'organisation reste le plus sobre possible pendant toute la durée des opérations.
 
 |La Fête autrement : réflexions, trucs et astuces pour une orga qui sort du quotidien_
 
+ENCADRÉ LYONNAIS : http://www.keep-smiling.com/ 
+
 Prévention des risques :
-Les lieux festifs et la nuit ne sont pas epargnés par les violences sociales (racisme, sexisme, ...) et sont sujets à un certain nombre de risques spécifiques. 
-Une organisation autogeree et libertaire ne signifie pas l'absence de toute regles, l'ensemble du collectif doit etre impliquee sur ces sujets il en va la responsabilite de l'orga d'impulser ces dynamiques et bonnes pratiques, prendre soin des lieux et des personnes.
+Les lieux festifs et la nuit ne sont pas épargnés par les violences sociales (racisme, sexisme, ...) et sont sujets à un certain nombre de risques spécifiques. 
+Une organisation autogérée et libertaire ne signifie pas l'absence de toute règles, l'ensemble du collectif doit être impliqué sur ces sujets. Il en va de la responsabilité de l'orga d'impulser ces dynamiques et bonnes pratiques afin de prendre soin des lieux et surtout des personnes.
 
-Risques specifiques
-drogues/alcool : l'economie de l'orga repose parfois sur la recette du bar mais on ne doit pas mettre toute ethique de cote et ne pas inciter a la consomation l'alcool, ne pas hesiter a proposer des verres d'eau, avoir une offre de softs attractives tant par la variété que par le prix.(Ressources KeepSmiling)
+Risques spécifiques
+Drogues/alcool : l'économie de la soirée repose parfois sur la recette du bar mais on ne doit pas mettre toute éthique de côté pour autant. Si vous gérez le bar ayez pour consigne de ne pas inciter à la consommation d'alcool, proposez une offre de softs attractive tant par la variété que par le prix, et pensez à servir des verres d'eau de temps en temps à vos meilleur·es client·es. Proposez des éthylotests sur demande.
 
-Violences/Mise en danger des personnes : Dimensionner son équipe bénévole en fonction de la taille du lieu et des besoins de la soirée (nocturne...), faire régulièrement des tours des lieux en équipe de 2 ou 3 pour vérifier que tout se passe bien et venir en aide aux personnes qui en auraient besoin. S'assurer de pouvoir alerter rapidement quelques copains et membres du public costauds si besoin de sortir quelqu'un quand toutes les tentatives d'apaisement et de désamorçage de conflits ont échoué (Ressources autodéfense) . Savoir stopper la soirée en cas de nécessité.
-Personne inconsciente : On est souvent réticents à faire appel aux services d'urgence mais en cas de problème il faut réagir vite, mettre la personne en PLS et appeler le 112 (secret professionnel)
+Violences/Mise en danger des personnes : Le mieux est de dimensionner son équipe bénévole en fonction de la taille du lieu et des besoins de la soirée, et faire régulièrement des tours des lieux en équipe de 2 ou 3 pour vérifier que tout se passe bien et venir en aide aux personnes qui en auraient besoin. Bien briefer l'équipe en amont sur les bons réflexes et s'assurer de pouvoir alerter rapidement des renforts s'il y a besoin de sortir quelqu'un quand toutes les tentatives d'apaisement et de désamorçage de conflits ont échoué. 
 
-son : Mettre des bouchons d'oreilles à disposition du public (on peut mutualiser les commandes [AGISON] entre plusieurs orgas. Tenter de maintenir un volume "raisonnable" et sensibiliser si besoin à cette fin les musiciens et l'ingé son (en fonction aussi des contraintes du lieu, du voisinage...). Vérifier aussi les alentours de la salle (en fonction des lieux il faut veiller à la bonne fermeture des portes et s'assurer que le public qui grille sa clope dehors ne braille pas trop fort)
+Personne inconsciente : réagir vite, mettre la personne en PLS et appeler le 112.
 
-pandemie : une soirée qui se veut inclusive inclut les personnes fragiles, et notre responsabilité à l'égard du collectif nous engage aussi vis à vis de la société dans son ensemble. On peut continuer à faire la fête dans la plupart des moments de crise en mettant en oeuvre certaines bonnes pratiques, à dimensionner en fonction de la situation (sanitaire). Mettre à disposition du gel hydroalcoolique, savon, des masques gratos pour le public (chirurgicaux ou FFP2 si possible) et montrer l'exemple dans le collectif d'organisation. Pensez à aérer les espaces lorsque c'est possible, et privilégier au maximum les lieux spacieux voire les extérieurs quand c'est possible. Vous pouvez aussi compenser en bloquant une jauge réduite de spectateurs (ce qui réduira mécaniquement vos bénéfices). > Ressources autodéfense sanitaire
+Son : Mettre des bouchons d'oreilles à disposition du public. (On peut mutualiser les commandes auprès d'AGISON entre plusieurs orgas). Tenter de maintenir un volume "raisonnable" et sensibiliser si besoin à cette fin les musiciens et l'ingé son (en fonction aussi des contraintes du lieu, du voisinage...). Vérifier les alentours de la salle (en fonction des lieux il faut veiller à la bonne fermeture des portes et s'assurer que le public qui grille sa clope dehors ne braille pas trop fort) 
+
+Pandémie : une soirée qui se veut inclusive inclut les personnes fragiles, et notre responsabilité à l'égard du collectif nous engage aussi vis à vis de la société dans son ensemble. On peut continuer à faire la fête dans la plupart des moments de crise en mettant en oeuvre certaines bonnes pratiques, à dimensionner en fonction de la situation (sanitaire). Mettre à disposition du gel hydroalcoolique, savon, des masques gratos pour le public (chirurgicaux ou FFP2 si possible) et montrer l'exemple dans le collectif d'organisation. Pensez à aérer les espaces lorsque c'est possible, et privilégier au maximum les lieux spacieux voire les extérieurs quand c'est possible. Vous pouvez aussi compenser en bloquant une jauge réduite de spectateurs (ce qui réduira mécaniquement vos bénéfices. Comptez aussi qu'un public masqué est un public qui boit moins). > Ressources autodéfense sanitaire https://rebellyon.info/Covid-19-faisons-front-pour-construire-l-23710
 
 Les outils
-- Sensbilisation de l'equipe de la salle et des bénévoles qui sont référents en cas de problèmes, doivent etre visible et savoir réagir
-- Sensbilisation du public a travers de l'affichage (anti-sexiste, antiraciste, antirelou), une table d'info et de prevention (brochures, capotes, ethylotest, paille, ...)
-- préserver un coin lounge confortable, loin du bruit
+- Sensibilisation de l'équipe de la salle et des bénévoles qui sont référents en cas de problèmes, doivent être visibles et savoir réagir
+- Sensibilisation du public via l'affichage (anti-sexiste, antiraciste, antirelou), une table d'info et de prévention (brochures, capotes, ethylotest, paille, ...)
+- Si l'espace le permet, préserver un coin lounge confortable, loin du bruit
 
 
-___ Imaginer la fete autrement
-- être attentif aux pogos / placements de public (ALL GIRLS TO THE FRONT), à l'ambiance générale
+___ Imaginer la fête autrement : quelques bonnes idées glanées de-ci de-là pour une orga qui sort du quotidien
+- En complicité avec les groupes sur scène, être attentif à l'ambiance, aux placements de public et aux pogos trop bourrins pour éviter que les plus costauds squattent tous les premiers rangs (ALL GIRLS TO THE FRONT comme disaient les Riot Grrrls)
 - Faire appel à un Maître de Cérémonie pour ambiancer la soirée
+- Monter une brigade du fun infiltrée dans le public pour faire danser tout le monde
 - inaugurer une expo sur les murs de la salle,_
-- distro / infokiosque avec des zines, point de rencontre / discussion
-- boum, karaoke, DJ, comédie, perfs, lipsynching, air-band...
+- Installer une distro / infokiosque avec des zines, point de rencontre / discussion pour créer du lien
+- Imaginer une boum, un karaoke, inviter des DJs, comédien·nes, performers, des jeux (lipsynching, air-band...), mélanger les genres et les publics
 - soigner la décoration
-- organiser une projection (attention il y a des droits spécifiques c'est encore tout un binz)
-- organiser des concerts petit-déjeuners / brunchs les samedis ou dimanches
+- organiser une projection (attention il y a des droits spécifiques c'est encore tout un binz si vous voulez faire ça légalement)
+- organiser des concerts petit-déjeuners / brunchs les samedis ou dimanches, des boums d'après-midis. (Dans l'idée de faire sans alcool, pas de se la coller à 16h)
 
 ____
-Au secours lae sondier.e n'est pas la : les bases du son et de la sonorisation
+NO HAY INGÉ SON : les bases du son et de la sonorisation
 
 Le rôle de sondier.e, ou sonorisateur, est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle.
 
@@ -283,63 +308,79 @@ Mixage : la console de mixage, les volume, l'eq,
 
 Diffusion : 
 
-Les larsens : Quand un micro est proche d'une enceinte et amplifie son propre signal. Le son produit est désagréable et peut atteindre des volume important.
-Ca fait partie de la musique de certains groupes mais est generalement à éviter.
+Les larsens : Quand un micro est proche d'une enceinte et amplifie son propre signal. Le son produit est désagréable et peut atteindre un volume important.
+Ca fait partie de la musique de certains groupes mais c'est généralement à éviter.
 
 _______
 |LEXIQUE : comprendre le langage du BOOKING et des FICHES TECH', les rôles d'une tournée > pages couleurs ?
 
-Fiche technique / Rider Tech : Fiche qui récapitule la disposition scénique, le matériel (backline) et les besoins techniques du groupe. Elle indique le matériel amené par les musiciens et le matériel qui doit être fourni par la salle. Certains groupes n'en ont pas mais il faut quand même s'assurer en amont de leurs attentes en la matière. Les salles ont aussi souvent une fiche technique ou une liste du matériel dont elles disposent. Si vous n'y connaissez rien vous pouvez transmettre les indications techniques de la salle aux musiciens, et la fiche technique du groupe au responsable son de la salle, et n'hésitez pas à demander de l'aide à un·e ami·e musicien·ne !
+Backline : Les instruments, amplis, pédales, micros, ... tout le materiel utilisé directement par les artistes.
 
-Rider accueil / Hospitality Rider : Récapitule les exigences du groupe en matière d'accueil : couchage, régimes alimentaires, boissons. Là encore beaucoup de groupes n'en ont pas, mais il est important de vérifier en amont qu'ils n'ont pas d'allergies alimentaires, (ou aux poils de chat s'ils doivent dormir chez un chat), pas de demandes ou besoins particuliers. Mieux vaut tout savoir avant plutôt que d'être mis devant le fait accompli !
-NB : il arrive souvent que des tourneurs aient des fiches tech / riders accueil standards avec une exigence haute. Si vous le pouvez contacter le groupe en direct pour voir ce que vous pouvez négocier sans souci à la baisse (avez vous vraiment besoin de douze retours et une bouteille de vodka ?). Ils n'auront pas les mêmes conditions d'accueil dans un concert DIY que dans une SMAC ou un gros festival, et c'est bien normal. Sachez également que si vous trouvez dans un rider un euphémisme mystérieux, vous n'êtes en aucun cas tenus de procurer des marchandises illégales à qui que ce soit. KIDS, SAY NO TO DRUGS !
+Break : quand l'argent récolté a permis de payer le minimum garanti + les frais engagés par l'organisateur. Au-delà s'ouvre à vous le paradis de la date réussie et vous vous transformez en père-noël de l'indie.
+
+Cachet : Rémunération garantie aux artistes. (???)
 
 Catering : le repas (pour les groupes)
 Récup, bons plans et recettes inventives pour être à la fois bonnes, nourrissantes, faciles et pas chères
 
-Minimum garanti : somme à donner au groupe indépendamment du nombre d'entrées. Plus c'est bas moins c'est risqué pour l'organisateur, plus c'est haut moins c'est risqué pour le groupe.
-break : quand l'argent récolté a permis de payer le minimum garanti + les frais engagés par l'organisateur. Au-delà s'ouvre à vous le paradis de la date réussie et vous vous transformez en père-noël de l'indie.
-
 Day off : un "trou" entre deux dates bookées. C'est la hantise de la tournée (même si cela peut être l'occasion de se reposer ou de faire un peu de tourisme), et les groupes sont prêt à tout pour boucher les trous : c'est là où vous intervenez !
 
-Tourneur / Booker : intermédiaire, souvent professionnel, qui cale les dates pour les groupes. C'est un taf très ingrat et ces gens-là méritent toute notre compassion, cependant il sera préférable de privilégier les quelques tourneurs qui comprennent les enjeux de l'orga DIY et sont prêts à quelques compromis (il y en a), au risque de faire perdre son temps à tout le monde.
+DIY : Do-It-Yourself. Manière de faire les choses avec les moyens disponibles, par soi même, par nous même. Do-It-Together. (??)
 
-Tour Manager : le baby sitter du groupe en tournée. Souvent aussi le chauffeur, le gardien des clés, de l'argent, la personne sobre sur qui on peut compter en toute circonstances. Sa présence est loin d'être systématique mais s'il est là c'est votre interlocuteur privilégié pour toutes les questions d'organisation.
+Door deal : On paye le groupe en fonction du nombre d'entrées.
 
 Get-in : Heure d'arrivée du groupe à la salle. (Les groupes sont quasi systématiquement en retard, tenez-en compte)
-Soundcheck : Installation du matos, réglages du son, cela peut-être assez long suivant les groupes, c'est un élément à prendre en compte dans le planning. Le groupe qui joue en dernier s'installe en premier et fait son sound check, et le groupe qui joue en premier soundchecke à la fin.
-Line check : Le soundcheck des flemmards ou des retardataires. On vérifie juste que tout est branché à peu près correctement et vogue la galère.
 
-Sondier·e : Personne qui s'occupe des balances/du mixage avant et/ou pendant le concert.
+Minimum garanti : somme à donner au groupe indépendamment du nombre d'entrées. Plus c'est bas moins c'est risqué pour l'organisateur, plus c'est haut moins c'est risqué pour le groupe.
 
-Balances/Mixage : Réglages des volumes pour qu'on puisse entendre chaque pistes, qu'aucune piste n'écrase les autres ou soit au contraire inaudible.
+Nocturne : Événement qui dure toute la nuit au moins jusqu'aux premiers métros.
 
-Pistes : Une "tranche" de mixer qui recoit du son venant d'un synthé, d'un micro (de voix, d'amplis,...).
+Prévente : Vente d'entrées avant le jour du concert. Peu usité dans nos concerts mais cela peut parfois détendre le tourneur, le public stressé de pas avoir de places, et l'organisateur inquiet de ne pas avoir de public. En ligne (attention aux frais de loc), chez les disquaires ou commerces ami·es, en général la place est un peu moins chère en prévente pour inciter le public à prendre sa place en amont, l'avantage étant qu'il sera moins susceptible de laisser tomber au dernier moment suite à un gros coup de flemme.
 
-Nocturne : Evenement qui commence ou se passe au milieu de la nuit.
+Prix libre : Les spectateurices paient ce qu'ielles veulent, ou peuvent. Parfois accompagné d'un prix conseillé.
 
-Backline : Les instruments, amplis, pédales, micros, ... tout le materiel utilisé directement par les artistes.
+Rider Tech / Fiche technique : Fiche qui récapitule la disposition scénique, le matériel (backline) et les besoins techniques du groupe. Elle indique le matériel amené par les musiciens et le matériel qui doit être fourni par la salle. Certains groupes n'en ont pas mais il faut quand même s'assurer en amont de leurs attentes en la matière. Les salles ont aussi souvent une fiche technique ou une liste du matériel dont elles disposent. Si vous n'y connaissez rien vous pouvez transmettre les indications techniques de la salle aux musiciens, et la fiche technique du groupe au responsable son de la salle, et n'hésitez pas à demander de l'aide à un·e ami·e musicien·ne !
+
+Rider accueil / Hospitality Rider : Récapitule les exigences du groupe en matière d'accueil : couchage, régimes alimentaires, boissons. Là encore beaucoup de groupes n'en ont pas, mais il est important de vérifier en amont qu'ils n'ont pas d'allergies alimentaires, (ou aux poils de chat s'ils doivent dormir chez un chat), pas de demandes ou besoins particuliers. Mieux vaut tout savoir avant plutôt que d'être mis devant le fait accompli !
+NB : il arrive souvent que des tourneurs aient des fiches tech / riders accueil standards avec une exigence haute. Si vous le pouvez contacter le groupe en direct pour voir ce que vous pouvez négocier sans souci à la baisse (avez vous vraiment besoin de douze retours et une bouteille de vodka ?). Ils n'auront pas les mêmes conditions d'accueil dans un concert DIY que dans une SMAC ou un gros festival, et c'est bien normal. Sachez également que si vous trouvez dans un rider un euphémisme mystérieux, vous n'êtes en aucun cas tenus de procurer des marchandises illégales à qui que ce soit.
 
 SMACs: Scènes de musiques actuelles. C'est un label attribué par le ministère de la culture à des institutions en faisant la demande.
 https://mesdemarches.culture.gouv.fr/loc_fr/mcc/requests/LIEUX_SOUTI_labellises_10/
 
-Prix libre : Les spectateurices paient ce qu'ielles veulent, ou peuvent. Parfois accompagné d'un prix conseillé.
+Sondier·e : Personne qui s'occupe des balances/du mixage avant et/ou pendant le concert.
+    Balances/Mixage : Réglages des volumes pour qu'on puisse entendre chaque pistes, qu'aucune piste n'écrase les autres ou soit au contraire inaudible.
+    Pistes : Une "tranche" de mixer qui recoit du son venant d'un synthé, d'un micro (de voix, d'amplis,...).
 
-Door deal : La repartition des gains de la vente des entrées entre, et convenue par, les groupes, le lieu et l'orga.
+Soundcheck : Installation du matos, réglages du son, cela peut-être assez long suivant les groupes, c'est un élément à prendre en compte dans le planning. Le groupe qui joue en dernier s'installe en premier et fait son sound check, et le groupe qui joue en premier soundchecke à la fin.
+    Line check : Le soundcheck des flemmards ou des retardataires. On vérifie juste que tout est branché à peu près correctement et vogue la galère.
 
-DIY : Do-It-Yourself. Manière de faire les choses avec les moyens disponibles, par soi même, par nous même. Do-It-Together.
+Tour Manager : le baby sitter du groupe en tournée. Souvent aussi le chauffeur, le gardien des clés, de l'argent, la personne sobre sur qui on peut compter en toute circonstances. Sa présence est loin d'être systématique mais s'il est là c'est votre interlocuteur privilégié pour toutes les questions d'organisation.
 
-Cachet : Rémunération garantie aux artistes.
-
-Prevente : Vente d'entrées avant le jour du concert. En ligne, chez les disquaires, les copaines, ...
+Tourneur / Booker / Booking Agent : intermédiaire, souvent professionnel, qui cale les dates pour les groupes. C'est un taf très ingrat et ces gens-là méritent toute notre compassion, cependant il sera préférable de privilégier les quelques tourneurs qui comprennent les enjeux de l'orga DIY et sont prêts à quelques compromis (il y en a), au risque de faire perdre son temps à tout le monde.
 
  |Ressources - sitographie - aller plus loin :
 https://weirdcanada.com/2014/02/how-to-put-on-a-show/
 https://weirdcanada.com/2014/12/how-to-do-hand-designed-poster-production-and-distribution/
+
+Murs Blancs, Peuple Muet [Affichage Libre en procès à Lyon] : https://rebellyon.info/Affichage-libre-proces-d-un
+https://rebellyon.info/Affichage-libre-proces-en-serie
+http://affichagelibre.lyon.free.fr/
+https://rebellyon.info/Murs-blancs-Peuple-muet
+les endroits à éviter https://www.service-public.fr/professionnels-entreprises/vosdroits/F24356
+
+Point Légal : https://www.maif.fr/associationsetcollectivites/associations/guides-manifestations/organiser-concert-occasionnel.html
+___ * déclarer le concert en tant que particulier
+https://www.guso.fr/information/accueil;JSESSIONID_JAHIA=7FBBD72BE86F950D2CC77194202AF2E9#
+___ * sacem et co : demander a Cédric ?
+___ * déposer une asso : https://www.rhone.gouv.fr/Demarches-administratives/Associations#!/Associations
+___ * licence de spectacles : https://www.service-public.fr/associations/vosdroits/F22365
+___ attention à la vente d'alcool : https://www.service-public.fr/associations/vosdroits/F24345
+
 Squats > infokiosques
 Catering brochure recettes
-Juridique > liens officiels
+
 SITES VILLE MORTE PARTOUT
 
-orgadiy.txt
-Affichage de orgadiy.txt en cours...
+Bibliographie :
+- A l'Arrache, éditions Barbapop
+- Grenoble Calling, 
