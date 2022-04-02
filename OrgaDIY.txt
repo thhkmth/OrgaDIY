@@ -1,18 +1,19 @@
 1 COUV : Comment Organiser Un Concert ? Un guide pour dilettantes en contexte granlyonnais [LOGO VILLE MORTE] Prix Libre
 2 - Sommaire et Intro
-5 - contact
+5 - Contact
 8 - Dates, lieux
 11 - Budget
-13 - tuto affiches
+13 - Tuto affiches
 15 - Promo
 16 - Point juridique
 18 - Planning
 19 - Catering
-20 - fiches recettes
-22 - le jour-même
-23 - la fête autrement
-6 - Lexique
-25 - Ressources
+20 - Fiches recettes
+22 - Le jour-même
+23 - La fête autrement
+24 - No hay ingé son
+25 - Lexique
+26 - Ressources
 ?? - Crédit
 ?? - 4e de couv [Photo Hazam ?] copyleft
 [brochure de 36 pages ??]
@@ -48,11 +49,11 @@ ENCADRÉ LYONNAIS : The Art of The Deal, par Stiol, organisatrice flemmarde "mon
 
 |Date et heure et météo
 
-La date est souvent imposée par les nécessités de routing (trajet) du groupe en tournée. Les dimanches et lundis sont les jours les plus redoutés pour les organisateurs de concerts car ce sont les soirs où le public est le moins susceptible de sortir , surtout s'il a un peu trop profité de son weekend (et la plupart des salles sont fermées). Ceci dit il n'aime pas trop les jeudis, vendredis et samedis non plus à cause de la concurrence. Et les mardis et mercredis, de par leur position intermédiaire, sont toujours imprévisibles. 
+La date est souvent imposée par les nécessités de routing* (trajet) du groupe en tournée. Les dimanches et lundis sont les jours les plus redoutés pour les organisateurs de concerts car ce sont les soirs où le public est le moins susceptible de sortir, surtout s'il a un peu trop profité de son weekend (et la plupart des salles sont fermées). Ceci dit il n'aime pas trop les jeudis, vendredis et samedis non plus à cause de la concurrence. Et les mardis et mercredis, de par leur position intermédiaire, sont toujours imprévisibles. 
 
 Autre variable impossible à maîtriser : la météo. Un rayon de soleil fourbe vient réchauffer le début de soirée et tout le public fait un apéro en terrasse au lieu de venir s'enfermer dans votre salle obscure. Une goutte de pluie traîtresse vient humidifier l'ambiance et plus personne n'ose sortir de chez lui.
 
-L'heure varie en fonction du jour et des possibilités que vous avez de nourrir le public. Si le dimanche tout est permis, en semaine on ne commencera souvent pas avant 19h (si vous pouvez nourrir le public) ou 20h30 (dans le cas contraire). Cela dépend aussi des contraintes de la salle, qui doit peut être fermer boutique tôt à cause du voisinage, et des horaires des transports en commun. 
+L'heure varie en fonction du jour et des possibilités que vous avez de nourrir le public. Si le dimanche tout est permis, en semaine on ne commencera souvent pas avant 19h (si vous pouvez nourrir le public) ou 20h30 (dans le cas contraire). Cela dépend aussi des contraintes de la salle, qui doit peut-être fermer boutique tôt à cause du voisinage, et des horaires des transports en commun. 
 
 ENCADRÉ LYONNAIS : Pour les TCL : à peu près minuit en semaine et à peu près 1h40 les vendredis et samedis. Reprise des premiers métros vers 5h, en cas de boum.
 
@@ -87,7 +88,7 @@ Calculer ses coûts :
 
 - défraiement et cachets* des musiciens, sans oublier le groupe local
 
-- courses, catering : il faut prévoir à manger et à boire pour l'ensemble des musicien·nes, des orgas, des bénévoles, de l'équipe technique. Trouvez le point d'équilibre crust-chic entre les produits frais, locaux, fait-maison, toujours appréciés, et les plans récup, prix de gros, déstockage, qui sauveront votre budget. Côté boissons il n'y aura de toute façon jamais assez de bière, vous pouvez raisonnablement poser une limite (1 Litre par personne?)
+- courses, catering* : il faut prévoir à manger et à boire pour l'ensemble des musicien·nes, des orgas, des bénévoles, de l'équipe technique. Trouvez le point d'équilibre crust-chic entre les produits frais, locaux, fait-maison, toujours appréciés, et les plans récup, prix de gros, déstockage, qui sauveront votre budget. Côté boissons il n'y aura de toute façon jamais assez de bière, vous pouvez raisonnablement poser une limite (1 Litre par personne?)
 
 - affichage : prévoir environ une trentaine d'euros pour quelques centaines d'affiches A3 noir et blanc chez un imprimeur cheapos. Vous aurez besoin de moins d'affiches si vous collez que si vous scotchez.
 
@@ -116,7 +117,7 @@ ________ - Le lieu ou mail de contact pour connaître l'adresse (utile lorsque l
 ________ - La date, éventuellement l'heure d'ouverture des portes Il est d'usage de mentir d'une grosse demi-heure entre l'heure annoncée et le début des concerts, afin que le public, ce grand enfant, n'arrive pas trop en retard. A partir d'1h30 de décalage, ce retard est cependant considéré comme une indélicatesse.
 ________ - le prix d'entrée, prix libre ou PAF (participation aux frais) et éventuellement (l'indication de préventes* éventuelles)
 ________ - Les étiquettes/descriptions: Elles servent à identifier le groupe de manière générique ou imagée, comique, voire carrément ésotérique. Mais elles sont au moins une tentative de faire comprendre ce dont il s'agira. On peut aussi ajouter la ville ou le pays d'origine, le nom d'un label associé, voire d'un membre du groupe célèbre.________
-________ - le nom du ou des organisateur(s) : Facultatif, et plus ou moins discret, le nom d'orga est soit un nom récurrent_ (voire institutionnalisé, comme un nom d'asso), ce qui permet d'en identifier la programmation, soit un nom fluctuant, insolite et contextuel qui laisse planer le mystère sur l'identité des instigateurs.
+________ - le nom du ou des organisateur(s) : Facultatif, et plus ou moins discret, le nom d'orga est soit un nom récurrent (voire institutionnalisé, comme un nom d'asso), ce qui permet d'en identifier la programmation, soit un nom fluctuant, insolite et contextuel qui laisse planer le mystère sur l'identité des instigateurs.
 
 Le format
 Commencez par définir le format de votre visuel : A4, A3, publication sur un réseau social, bannière sur un site web ...
@@ -306,29 +307,37 @@ ___ Imaginer la fête autrement : quelques bonnes idées glanées de-ci de-là p
 - organiser des concerts petit-déjeuners / brunchs les samedis ou dimanches, des boums d'après-midis. (Dans l'idée de faire sans alcool, pas de se la coller à 16h)
 
 ____
-NO HAY INGÉ SON : les bases du son et de la sonorisation
+NO HAY INGÉ SON : les bases de la sonorisation
 
-Le rôle de sondier.e est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle et dans les retours.
+On parle ici en surface de quelques sujets techniques, c'est pas un guide pour apprendre la sonorisation mais ca devrait en donner un aperçu.
 
-Captation sonore : 
-Rassembler les sources de son, les entrées, et les connecter au mixer.
-La console de mixage, les types d'entrées, reglages et traitements sonores: 
+Types de signaux
+Le rôle de sondier.e est de capter ce qu'il se passe sur scène, de le mixer et de le diffuser dans la salle, pour le public, et dans les retours, pour le groupe.
+Ce qu'il ce qu'il se passe sur scène c'est ce que joue le groupe et ça peut être plein de choses différentes : voix, synthé, batterie, guitare, ordinateur ... 
+Les synthés, ordinateurs et autres machines ont des "sorties lignes", c'est le cas le plus simple puisque les capter consiste à brancher leur sortie sur une entrée/tranche du mixeur. Ces sorties peuvent être stéréo (avec des canaux gauche et droite) ou mono (un seul canal), on se branchera à l'entrée adaptée sur le mixer. Brancher une sortie mono sur une entrée stéréo ne posera pas de problème, mais en branchant une sortie stéréo sur une entrée mono on perd une partie du son.
+Toutes les autres sources de sons sont captées avec des micros. Les "signaux micros" ont des niveaux plus faibles que les "signaux lignes", ils sont pré-amplifiés (avant la table de mixage, ou par la table de mixage).
 
-En entrée de la table de mixage on peut avoir 2 types de signaux : 
-	Les signaux line/lignes, qui viennent de claviers, synthés, lecteur mp3, et autres machines. Ils peuvent être mono ou stereo. 
-	Et les signaux micro qui viennent des micros (incroyable).
-	
-Les réglages d'une tranche/track de mixer:
+Captation
+Pour les voix, on branche les microphones directement sur la table de mixage si elle a des pré amplis, ce qui est souvent le cas. Sinon on met un pré-ampli entre le micro et la table.
+Les guitares et basses sont généralement amplifiées et diffusées sur scène par la backline*. Elles sont repiquées par un voir deux micros placés une dizaine de centimètres devant la baffle. Il y a tout un art du placement de micro mais on peut aussi essayer différentes positions pour trouver un bon point de captation.
+On peut sonoriser chaque partie de la batterie avec un micro, voir plusieurs. Pour la grosse caisse: un micro du côté de la pédale pour avoir le son de frappe et un de l'autre côté pour avoir le son grave, sa résonnance. Mais une manière simple et pas coûteuse est de placer 2 micro au dessus de la batterie, qui capteront l'ensemble.
+
+Piste
+Une piste/track de mixeur c'est une entrée et des réglages qui donneront la sortie de la piste. Chaque instrument est sonorisé et branché à une ou plusieurs de ces pistes, on peut régler les volumes de chaque piste et y appliquer des effets pour faire en sorte qu'on entende tous les instruments.
+
+* schéma mixeur avec les différents instruments branchés dessus
+
+Les réglages d'une piste de mixeur:
+
 Gain: Les signaux micros ont des niveaux plus faibles que les signaux lignes, les pré-amplis présents sur les tranches/tracks du mixer permettent d'ajuster leurs niveaux à celui des entrées lignes. On règle le pré-ampli avec ce potentiomètre (bouton qui tourne, appellé aussi potar si on veut économiser des syllabes) qui est souvent à côté du branchement de l'entrée.
 
-Alimentation fantôme: Les microphones à condensateur ont besoin d'être alimentés pour fonctionner correctement.
-Comment différencier un micro à condensateur d'un micro dynamique ?
+Mute/M: Rend la piste muette.
+Solo/S: Rend toutes les autres pistes muettes.
+Equalization/EQ: Souvent 3 boutons low/mid/high, pour ajuster la puissance de la piste dans les frequences basses, moyennes ou aigues.
 
-Mute/M: rend la piste muette.
-Solo/S: rend toutes les autres pistes muettes.
-Equalization:
-Compression:
-Pan:
+* schéma spectre sonore + le rapport avec l'EQ
+
+Pan: La spatialisation du son, équilibré entre gauche et droite en position centrale/neutre, plus ou moins d'un côté sinon.
 
 Des exemples de types de signaux et de réglages associés:
 	la voix
@@ -336,16 +345,16 @@ Des exemples de types de signaux et de réglages associés:
 	les guitares
 	les synthés et autres machines
 
-Diffusion : 
-Branchement des sorties: La sortie principale du mixer peut s'appeller Main, Mix, Output, ... , c'est cette ligne qui va fournir le signal aux enceintes diffusant pour le public. On branche les retours à une autre sortie: Aux.
-Placement des enceintes de chaque côté de la scène, si il y en a une, et orientées sur le centre de l'endroit où est le public. Pas besoin de sortir le compas ou la règle sauf si ca vous fait plaisir bien sur, on juge pas. 
-Enceintes fixées (?) sur des supports solides et stables: les haut parleurs vont vibrer, et faire vibrer leurs caissons. Les enceintes peuvent alors tenter de saboter votre super soirée en fuyant doucement leur suport jusqu'à tomber (pas doucement). Ce qui supporte les enceintes va aussi vibrer, il faut que ce soit assez lourd et solide (les tours en kapla c'est non) mais aussi stable pour éviter que l'ensemble oscille trop et finisse par faire un plat sur le public.
+Diffusion
+Branchement des sorties: La sortie principale du mixer peut s'appeller Main, Mix, Output, ... , c'est cette ligne qui va fournir le signal aux enceintesdiffusant pour le public, en facade. On branche les retours à une autre sortie: Aux.
+Placement des enceintes de chaque côté de la scène, si il y en a une, et orientées sur le centre de l'endroit où est le public. Pas besoin de sortir le compas ou la règle sauf si ca vous fait plaisir bien sur. 
+Enceintes fixées (?) sur des supports solides et stables: les haut-parleurs vont vibrer, et faire vibrer leurs caissons. Les enceintes peuvent alors tenter de saboter votre super soirée en fuyant doucement leur suport jusqu'à tomber (pas doucement). Ce qui supporte les enceintes va aussi vibrer, il faut que ce soit assez lourd et solide (les tours en kapla c'est non) mais aussi stable pour éviter que l'ensemble oscille trop et finisse par faire un plat sur le public.
 
-Sur le volume: légalement limité à une moyenne de 94dB pour un public enfant et 102db sinon (il y a des applications pour le mesurer). Le lieux de votre événement n'est pas forcément soumis à cette réglementation mais ça donne une idée des niveaux sonores ailleurs, dans des salles souvent plus grandes et à l'accoustique meilleure que nos salons, jardins et caves chéries. Bref ce ne sont pas des cibles à atteindre mais bien des limites au-delà desquelles des oreilles vont souffrir sur le moment, et souffler rageusement le lendemain. Un volume trop élevé va aussi faciliter l'apparition des redoutés larsens. 
-Quand un micro est trop proche d'une enceinte-public et/ou que le volume est trop élevé, il capte son propre signal amplifié qui sera amplifié à nouveau. Ca fait une boucle qui s'autoalimente jusqu'à produire un son très aigu et désagréable qui peut atteindre des volumes importants. Ca fait partie de la musique de certains groupes mais c'est un enfer pour lae sondier.e et le public.
+Volume
+Légalement limité à une moyenne de 94dB pour un public enfant et 102db sinon (il y a des applications pour le mesurer). Le lieu de votre événement n'est pas forcément soumis à cette réglementation mais ça donne une idée des niveaux sonores ailleurs, dans des salles souvent plus grandes et à l'accoustique meilleure que nos salons, jardins et caves chéries. Bref ce ne sont pas des cibles à atteindre mais bien des limites au-delà desquelles des oreilles vont souffrir sur le moment, et souffler rageusement le lendemain. Un volume trop élevé va aussi faciliter l'apparition des redoutés larsens. 
+Quand un micro est trop proche d'une enceinte de facade et/ou que le volume est trop élevé, il capte son propre signal amplifié qui sera amplifié à nouveau. Ca fait une boucle qui s'autoalimente jusqu'à produire un son très aigu et désagréable qui peut atteindre des volumes importants. Ca fait partie de la musique de certains groupes mais c'est un enfer pour lae sondier.e et le public.
 
-* schéma installation (cf. page 34 https://assos.utc.fr/decibels/current/web/uploads/formation/b3196cb0b4dc7784e62ec82542856d347623c6ea.pdf )
-
+https://assos.utc.fr/decibels/current/web/uploads/formation/b3196cb0b4dc7784e62ec82542856d347623c6ea.pdf plus dispo :(
 https://agi-son.org/nl/parution-du-decret-niveaux-sonores-abaisses-17
 https://www.bax-shop.fr/blog/sono/table-de-mixage-les-fonctions-et-la-connectique-expliquees/
 _______
@@ -372,6 +381,8 @@ Minimum garanti : somme à donner au groupe indépendamment du nombre d'entrées
 
 Nocturne : Événement qui dure toute la nuit au moins jusqu'aux premiers métros.
 
+Plateau : L'affiche du concert, les groupes qui jouent. 
+
 Prévente : Vente d'entrées avant le jour du concert. Peu usité dans nos concerts mais cela peut parfois détendre le tourneur, le public stressé de pas avoir de places, et l'organisateur inquiet de ne pas avoir de public. En ligne (attention aux frais de loc), chez les disquaires ou commerces ami·es, en général la place est un peu moins chère en prévente pour inciter le public à prendre sa place en amont, l'avantage étant qu'il sera moins susceptible de laisser tomber au dernier moment suite à un gros coup de flemme.
 
 Prix libre : Les spectateurices paient ce qu'ielles veulent, ou peuvent. Parfois accompagné d'un prix conseillé.
@@ -380,6 +391,8 @@ Rider Tech / Fiche technique : Fiche qui récapitule la disposition scénique, l
 
 Rider accueil / Hospitality Rider : Récapitule les exigences du groupe en matière d'accueil : couchage, régimes alimentaires, boissons. Là encore beaucoup de groupes n'en ont pas, mais il est important de vérifier en amont qu'ils n'ont pas d'allergies alimentaires, (ou aux poils de chat s'ils doivent dormir chez un chat), pas de demandes ou besoins particuliers. Mieux vaut tout savoir avant plutôt que d'être mis devant le fait accompli !
 NB : il arrive souvent que des tourneurs aient des fiches tech / riders accueil standards avec une exigence haute. Si vous le pouvez contacter le groupe en direct pour voir ce que vous pouvez négocier sans souci à la baisse (avez vous vraiment besoin de douze retours et une bouteille de vodka ?). Ils n'auront pas les mêmes conditions d'accueil dans un concert DIY que dans une SMAC ou un gros festival, et c'est bien normal. Sachez également que si vous trouvez dans un rider un euphémisme mystérieux, vous n'êtes en aucun cas tenus de procurer des marchandises illégales à qui que ce soit.
+
+Routing : Le trajet du groupe en tournée.
 
 SMACs: Scènes de musiques actuelles. C'est un label attribué par le ministère de la culture à des institutions en faisant la demande.
 https://mesdemarches.culture.gouv.fr/loc_fr/mcc/requests/LIEUX_SOUTI_labellises_10/
